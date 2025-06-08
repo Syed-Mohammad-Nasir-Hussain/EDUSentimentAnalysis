@@ -7,29 +7,31 @@ A full-stack sentiment analysis and keyword extraction system tailored for analy
 ## 📁 Project Structure
 
 ```
-
-.
-├── database/
-│   ├── database\_input.py
-│   └── database\_output.py
-├── nlp/
-│   ├── preprocess.py
-│   ├── text\_cleaning.py
-│   ├── text\_tokenize.py
-│   └── keyword\_extraction.py
+EDUSENTIMENT/
 ├── analysis/
-│   ├── sentiment.py
-│   └── accuracy.py
-├── main.py
-├── dashboard.py
-├── requirements.txt
+│   ├── accuracy.py
+│   └── sentiment.py
+├── data/
+│   ├── departments.csv
+│   ├── feedback.csv
+│   ├── predictions.csv
+│   ├── student_labelled_data.csv
+│   └── students.csv
+├── database/
+│   ├── database_input.py
+│   └── database_output.py
+├── nlp/
+│   ├── keyword_extraction.py
+│   ├── preprocess.py
+│   ├── text_cleaning.py
+│   └── text_tokenize.py
+├── venv/                          # Virtual environment (optional to track in Git)
 ├── .env
-└── data/
-    ├── departments.csv
-    ├── students.csv
-    ├── feedback.csv
-    ├── student_labelled_data.csv
-    └── predictions.csv
+├── .gitignore
+├── dashboard.py
+├── main.py
+├── query.sql
+└── requirements.txt
 
 ````
 
