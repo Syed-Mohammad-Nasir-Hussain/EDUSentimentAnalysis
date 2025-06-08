@@ -1,0 +1,101 @@
+﻿feedback_id,department_name,student_id,date,feedback_text,sentiment
+13,Library,S2591,3/23/2025,uhh Facilities were great and easily accessible.,positive
+14,Library,S2140,4/29/2025,I had a good experience with the support team.,positive
+22,Library,S7071,4/14/2025,I had to wait a long time to get support.,negative
+25,Library,S6254,10/16/2024,Facilities were outdated and not working properly.,negative
+30,Library,S3103,4/21/2025,It's  decent  but  could  use  some  improvement.,neutral
+34,Library,S9676,1/11/2025,The services were fast and effective.,positive
+35,Library,S2567,12/22/2024,uhh  I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.,negative
+41,Library,S4435,5/1/2025,The staff was rude and unhelpful.,negative
+61,Library,S3225,3/2/2025,I had to wait a long time to get support.,negative
+87,Library,S6024,3/1/2025,<b>Facilities were great and easily accessible.</b>,positive
+88,Library,S2591,2/16/2025,uhh <b>It's decent but could use some improvement.</b>,neutral
+98,Library,S2018,9/8/2024,<b>Extremely frustrating experience with the department.</b>,negative
+108,Library,S5731,10/12/2024,The system works fine most of the time.,neutral
+109,Library,S4101,7/27/2024,Facilities were great and easily accessible. Ã°Å¸ËœÅ ,positive
+132,Library,S9472,12/19/2024,Facilities were great and easily accessible.,positive
+134,Library,S5567,7/20/2024,The  staff  was  rude  and  unhelpful.,negative
+143,Library,S4683,7/6/2024,"<B>IT WAS OKAY, NOT TOO BAAAD.</B>",neutral
+156,Library,S5949,4/22/2025,<B>I HAD TO WAIT A LONG TIME TO GET SUPPORT.</B>,negative
+158,Library,S3011,11/30/2024,The staff was rude and unhelpful.,negative
+159,Library,S1954,8/2/2024,"Not much to say, it's functional.",neutral
+161,Library,S7033,12/31/2024,THE SERVICES WERE FAST AND EFFECTIVE.,positive
+168,Library,S6389,8/24/2024,"Not much to say, it's functional.",neutral
+171,Library,S6389,10/3/2024,uhh The staff was rude and unhelpful.,negative
+199,Library,S6610,6/21/2024,Clean environment and well-maintained infrastructure.,positive
+200,Library,S4577,5/3/2025,Extremely  frustrating  experience  with  the  department.,negative
+209,Library,S4543,5/26/2025,"Nothing special, just an average experience.",neutral
+210,Library,S2796,10/3/2024,It's decent but could use some improvement. Ã°Å¸ËœÅ ,neutral
+232,Library,S3745,8/18/2024,uhh The system works fine most of the time.,positive
+236,Library,S2652,3/19/2025,<b>Facilities were great and easily accessible.</b>,positive
+247,Library,S9676,11/1/2024,<b>I had a good experience with the support team.</b>,negative
+251,Library,S7458,12/18/2024,<b>The staff was rude and unhelpful. Ã°Å¸ËœÅ </b>,positive
+257,Library,S2742,8/21/2024,The services were fast and effective.,negative
+261,Library,S5637,7/29/2024,I had to wait a long time to get support.,negative
+289,Library,S4101,3/14/2025,Facilities  were  outdated  and  not  working  properly.,positive
+296,Library,S5567,11/13/2024,Extremely frustrating experience with the department.,neutral
+298,Library,S2061,1/7/2025,Very poor servise and delayed response.,negative
+323,Library,S8003,4/8/2025,Facilities were great and easily accessible. Ã°Å¸ËœÅ ,negative
+331,Library,S9446,10/3/2024,THE SYSTEM WORKS FINE MOST OF THE TIME.,negative
+363,Library,S9341,1/26/2025,Extremely frustrating experience with the department.,positive
+386,Library,S8291,9/10/2024,Very poor service and delayed response.,negative
+388,Library,S7743,9/3/2024,<b>Very poor servise and delayed response.</b>,positive
+405,Library,S2481,7/26/2024,Facilities  were  great  and  easily  accessible.,positive
+429,Library,S3745,12/28/2024,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.,neutral
+433,Library,S1975,6/15/2024,Clean environment and well-maintained infrastructure. Ã°Å¸ËœÅ ,neutral
+436,Library,S4295,6/23/2024,Clean environment and well-maintained infrastructure. Ã°Å¸ËœÅ ,neutral
+440,Library,S7487,1/16/2025,"uhh Not much to say, it's functional.",negative
+443,Library,S3103,1/26/2025,Very poor service and delayed response.,negative
+451,Library,S2567,3/23/2025,Very poor servise and delayed response.,positive
+454,Library,S1365,2/24/2025,I  had  a  good  experience  with  the  support  team.,negative
+455,Library,S6737,8/7/2024,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.,negative
+470,Library,S8211,3/22/2025,Facilities were outdated and not working properly.,negative
+475,Library,S7732,5/26/2025,uhh Extremely frustrating experience with the department.,negative
+476,Library,S5459,3/30/2025,VERY  POOR  SERVICE  AND  DELAYED  RESPONSE.,negative
+491,Library,S5428,2/23/2025,Very poor service and delayed response.,negative
+500,Library,S2524,12/20/2024,uhh Facilities were outdated and not working properly. Ã°Å¸ËœÅ ,negative
+515,Library,S4554,8/20/2024,Very  poor  service  and  delayed  response.,positive
+520,Library,S8291,12/5/2024,The staff was rude and unhelpful.,negative
+531,Library,S7917,12/29/2024,The staff was really helpful and polite.,negative
+534,Library,S8307,9/30/2024,<B>I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.</B>,neutral
+545,Library,S5459,11/13/2024,Facilities were outdated and not working properly. Ã°Å¸ËœÅ ,negative
+546,Library,S5375,10/14/2024,"Not much to say, it's functional.",negative
+552,Library,S7654,7/21/2024,I had to wait a long time to get support.,positive
+560,Library,S1107,12/20/2024,The staff was rude and unhelpful.,positive
+564,Library,S9350,8/14/2024,Very poor servise and delayed response.,positive
+572,Library,S2537,6/1/2025,I  had  a  good  experience  with  the  support  team.,negative
+577,Library,S4599,12/11/2024,The services were fast and effective.,negative
+579,Library,S4683,8/6/2024,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.,negative
+580,Library,S8123,6/8/2024,I had to wait a long time to get support.,positive
+584,Library,S4045,12/8/2024,Very poor service and delayed response.,positive
+585,Library,S7975,7/4/2024,I had to wait a long time to get support.,positive
+589,Library,S3418,3/17/2025,uhh Very poor service and delayed response.,negative
+594,Library,S1956,5/24/2025,THE STAFF WAS REALLY HELPFUL AND POLITE.,negative
+623,Library,S4843,4/2/2025,<B>IT'S DECENT BUT COULD USE SOME IMPROVEMENT.</B>,negative
+629,Library,S9998,11/19/2024,It's decent but could use some improvement.,positive
+631,Library,S4327,6/11/2024,<B>FACILITIES WERE GREAT AND EASILY ACCESSIBLE.</B>,neutral
+649,Library,S7882,8/8/2024,I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.,neutral
+654,Library,S2445,4/14/2025,<b>The staff was really helpful and polite. Ã°Å¸ËœÅ </b>,positive
+668,Library,S6166,6/3/2025,The staff was really helpful and polite.,negative
+671,Library,S1970,5/24/2025,uhh Extremely frustrating experience with the department.,positive
+673,Library,S4737,12/30/2024,The  staff  was  really  helpful  and  polite.  Ã°Å¸ËœÅ ,positive
+676,Library,S2567,5/6/2025,I  had  a  good  experience  with  the  support  team.  Ã°Å¸ËœÅ ,positive
+681,Library,S5846,7/12/2024,THE STAFF WAS RUDE AND UNHELPFUL.,negative
+697,Library,S7743,9/15/2024,I had to wait a long time to get support.,negative
+710,Library,S5887,1/20/2025,I had a goood experience with the support team. Ã°Å¸ËœÅ ,positive
+713,Library,S9370,5/22/2025,It's decent but could use some improvement.,neutral
+718,Library,S8709,8/13/2024,The  services  were  fast  and  effective.,positive
+720,Library,S6660,10/30/2024,I HAD TO WAIT A LONG TIME TO GET SUPPORT. Ã°Å¸ËœÅ ,neutral
+732,Library,S9742,1/6/2025,uhh Facilities were great and easily accessible.,negative
+738,Library,S4465,11/9/2024,"Nothing  special,  just  an  average  experience.",negative
+746,Library,S6113,1/5/2025,Clean environment and well-maintained infrastructure.,neutral
+748,Library,S5053,6/23/2024,It's  decent  but  could  use  some  improvement.,neutral
+752,Library,S8709,1/28/2025,<B>THE STAFF WAS REALLY HELPFUL AND POLITE.</B>,positive
+770,Library,S7458,3/17/2025,I had to wait a long time to get support.,negative
+779,Library,S6254,1/5/2025,I had to wait a long time to get support.,negative
+780,Library,S8945,1/19/2025,<B>THE SYSTEM WORKS FINE MOST OF THE TIME.</B>,negative
+785,Library,S7444,3/9/2025,Facilities were outdated and not working properly.,neutral
+793,Library,S1083,6/12/2024,uhh <b>The staff was rude and unhelpful.</b>,positive
+796,Library,S8414,10/20/2024,I had to wait a long time to get support.,neutral
+803,Library,S4220,4/12/2025,IT'S DECENT BUT COULD USE SOME IMPROVEMENT. Ã°Å¸ËœÅ ,positive
+809,Library,S2923,10/24/2024,Clean environment and well-maintained infrastructure.,neutral

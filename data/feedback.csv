@@ -1,0 +1,1001 @@
+feedback_id,student_id,department_id,date,feedback_text
+1,S7732,7,2024-11-17,<b>It's decent but could use some improvement.</b>
+2,S5227,5,2025-01-27,uhh I had to wait a long time to get support.
+3,S8329,5,2024-10-15,<b>Facilities were outdated and not working properly.</b>
+4,S1908,8,2024-12-28,uhh EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+5,S2481,8,2024-12-20,I had a good experience with the support team.
+6,S3637,8,2025-03-25,uhh  Clean  environment  and  well-maintained  infrastructure.
+7,S4516,4,2025-03-22,The staff was really helpful and polite.
+8,S3343,3,2025-05-30,Facilities were outdated and not working properly.
+9,S8051,7,2025-04-23,<b>Facilities were outdated and not working properly.</b>
+10,S5849,7,2025-01-21,The staff was really helpful and polite.
+11,S6012,3,2024-07-20,uhh <b>Facilities were outdated and not working properly.</b>
+12,S9341,3,2025-05-29,I  had  a  good  experience  with  the  support  team.
+13,S2591,1,2025-03-23,uhh Facilities were great and easily accessible.
+14,S2140,1,2025-04-29,I had a good experience with the support team.
+15,S1580,8,2024-08-07,IT'S DECENT BUT COULD USE SOME IMPROVEMENT.
+16,S3426,2,2024-12-14,I had to wait a long time to get support.
+17,S2018,5,2025-03-01,"It was okay, not too baaad."
+18,S5122,7,2025-04-14,<b>The staff was rude and unhelpful.</b>
+19,S7487,8,2024-06-09,"uhh <b>Not much to say, it's functional.</b>"
+20,S3161,3,2025-03-01,<b>Extremely frustrating experience with the department.</b>
+21,S3426,2,2025-04-17,<b>Clean environment and well-maintained infrastructure.</b>
+22,S7071,1,2025-04-14,I had to wait a long time to get support.
+23,S6892,2,2024-09-16,It's decent but could use some improvement.
+24,S4191,2,2025-06-03,I had a good experience with the support team.
+25,S6254,1,2024-10-16,Facilities were outdated and not working properly.
+26,S7033,5,2024-06-28,uhh  Clean  environment  and  well-maintained  infrastructure.
+27,S8853,2,2024-12-02,"uhh NOTHING SPECIAL, JUST AN AVERAGE EXPERIENCE."
+28,S9766,2,2024-08-10,FACILITIES WERE GREAT AND EASILY ACCESSIBLE. 😊
+29,S2366,4,2024-08-24,<b>Facilities were outdated and not working properly.</b>
+30,S3103,1,2025-04-21,It's  decent  but  could  use  some  improvement.
+31,S4531,6,2024-07-14,"It was okay, not too baaad."
+32,S5626,3,2025-03-21,<B>EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.</B>
+33,S4844,5,2025-03-08,"Not much to say, it's functional."
+34,S9676,1,2025-01-11,The services were fast and effective.
+35,S2567,1,2024-12-22,uhh  I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.
+36,S3524,4,2024-12-10,The services were fast and effective.
+37,S8090,3,2024-10-26,"Not much to say, it's functional. 😊"
+38,S4599,5,2024-07-10,<b>I had to wait a long time to get support. 😊</b>
+39,S7476,4,2024-12-21,The  services  were  fast  and  effective.
+40,S5637,7,2024-06-27,"Nothing special, just an average experience."
+41,S4435,1,2025-05-01,The staff was rude and unhelpful.
+42,S1516,3,2024-07-31,Facilities were outdated and not working properly.
+43,S1151,2,2024-08-20,Facilities  were  outdated  and  not  working  properly.  😊
+44,S2400,2,2024-09-05,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+45,S9445,6,2025-03-25,"Nothing special, just an average experience."
+46,S4843,3,2024-09-27,uhh Facilities were great and easily accessible.
+47,S4737,6,2024-10-29,<b>I had to wait a long time to get support.</b>
+48,S9446,5,2024-12-17,The  staff  was  really  helpful  and  polite.  😊
+49,S2113,6,2024-09-23,I had a good experience with the support team.
+50,S6577,8,2024-08-26,THE STAFF WAS RUDE AND UNHELPFUL. 😊
+51,S5997,5,2024-11-26,"Nothing  special,  just  an  average  experience.  😊"
+52,S7697,5,2025-03-10,<b>Very poor service and delayed response. 😊</b>
+53,S9450,3,2024-10-05,uhh <b>The services were fast and effective. 😊</b>
+54,S1882,2,2024-11-01,VERY POOR SERVICE AND DELAYED RESPONSE.
+55,S5567,7,2025-01-06,Clean environment and well-maintained infrastructure.
+56,S9445,5,2025-02-13,uhh The staff was really helpful and polite.
+57,S7790,2,2025-04-20,Clean environment and well-maintained infrastructure.
+58,S9290,2,2025-03-28,The staff was rude and unhelpful.
+59,S4999,5,2024-06-17,uhh <b>Very poor service and delayed response.</b>
+60,S8789,3,2024-07-30,uhh I had a good experience with the support team. 😊
+61,S3225,1,2025-03-02,I had to wait a long time to get support.
+62,S3814,3,2024-08-07,THE STAFF WAS RUDE AND UNHELPFUL.
+63,S4445,5,2024-10-21,uhh Very poor service and delayed response.
+64,S5260,8,2024-10-02,uhh I had to wait a long time to get support.
+65,S2796,8,2024-10-21,uhh  I  had  a  good  experience  with  the  support  team.
+66,S7841,7,2025-01-26,uhh <b>Facilities were great and easily accessible.</b>
+67,S9341,3,2025-05-07,Very poor service and delayed response.
+68,S7841,5,2024-08-04,<b>I  had  to  wait  a  long  time  to  get  support.  😊</b>
+69,S8619,5,2024-06-07,<b>Clean  environment  and  well-maintained  infrastructure.</b>
+70,S7975,7,2025-01-01,Facilities were outdated and not working properly.
+71,S4531,2,2025-05-17,<B>I HAD TO WAIT A LONG TIME TO GET SUPPORT.</B>
+72,S1251,8,2024-11-28,I  had  to  wait  a  long  time  to  get  support.
+73,S5166,4,2024-08-14,uhh  It's  decent  but  could  use  some  improvement.  😊
+74,S3520,5,2025-05-11,<b>Extremely frustrating experience with the department. 😊</b>
+75,S3025,8,2025-01-27,Facilities were outdated and not working properly. 😊
+76,S7476,6,2024-10-28,uhh The staff was really helpful and polite.
+77,S4445,6,2025-02-27,The  services  were  fast  and  effective.
+78,S3814,8,2025-01-17,THE SERVICES WERE FAST AND EFFECTIVE.
+79,S5974,6,2025-05-03,uhh THE SERVICES WERE FAST AND EFFECTIVE.
+80,S7071,7,2024-07-03,Extremely frustrating experience with the department.
+81,S5203,6,2024-12-17,I had a good experience with the support team.
+82,S1580,2,2024-06-16,<b>It's decent but could use some improvement.</b>
+83,S7697,2,2025-01-21,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+84,S4463,3,2024-11-02,Extremely frustrating experience with the department.
+85,S9445,7,2024-10-30,The services were fast and effective.
+86,S5394,2,2025-05-20,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT. 😊
+87,S6024,1,2025-03-01,<b>Facilities were great and easily accessible.</b>
+88,S2591,1,2025-02-16,uhh <b>It's decent but could use some improvement.</b>
+89,S3418,8,2024-06-11,uhh I had to wait a long time to get support. 😊
+90,S4510,4,2024-12-20,uhh <b>I had a goood experience with the support team. 😊</b>
+91,S7071,4,2024-07-31,Clean environment and well-maintained infrastructure.
+92,S4516,6,2024-11-03,Extremely frustrating experience with the department.
+93,S5662,5,2025-03-19,Very poor service and delayed response.
+94,S4445,8,2025-05-26,I had to wait a long time to get support. 😊
+95,S7917,7,2024-10-31,"<B>NOTHING SPECIAL, JUST AN AVERAGE EXPERIENCE.</B>"
+96,S4445,8,2024-11-05,The staff was rude and unhelpful.
+97,S3088,7,2024-12-28,<b>The services were fast and effective.</b>
+98,S2018,1,2024-09-08,<b>Extremely frustrating experience with the department.</b>
+99,S3000,7,2025-05-24,Facilities were outdated and not working properly.
+100,S5637,8,2025-03-21,The services were fast and effective.
+101,S6300,7,2024-11-12,<b>Facilities  were  great  and  easily  accessible.  😊</b>
+102,S6215,4,2024-12-18,uhh Clean environment and well-maintained infrastructure.
+103,S8967,6,2025-02-24,The system works fine most of the time. 😊
+104,S5974,8,2024-12-02,Facilities were outdated and not working properly.
+105,S8857,2,2024-08-22,The staff was rude and unhelpful. 😊
+106,S6024,2,2024-12-23,Clean  environment  and  well-maintained  infrastructure.  😊
+107,S2140,2,2024-06-20,uhh Facilities were great and easily accessible. 😊
+108,S5731,1,2024-10-12,The system works fine most of the time.
+109,S4101,1,2024-07-27,Facilities were great and easily accessible. 😊
+110,S7575,6,2025-02-22,uhh <b>The system works fine most of the time.</b>
+111,S5203,4,2025-01-11,uhh I had to wait a long time to get support.
+112,S4191,5,2025-04-15,uhh I had to wait a long time to get support.
+113,S7720,3,2024-11-25,Extremely frustrating experience with the department. 😊
+114,S5731,7,2025-04-24,uhh <b>I had to wait a long time to get support.</b>
+115,S3814,6,2025-03-06,uhh <B>FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.</B>
+116,S3025,5,2025-06-04,uhh <b>The services were fast and effective.</b>
+117,S9370,8,2025-04-30,<b>I had a good experience with the support team.</b>
+118,S7071,5,2025-05-20,The services were fast and effective.
+119,S6540,4,2024-08-01,I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.  😊
+120,S4683,4,2025-05-09,Extremely frustrating experience with the department.
+121,S2396,6,2024-09-10,"<b>Nothing special, just an average experience. 😊</b>"
+122,S1737,5,2025-01-05,The  staff  was  really  helpful  and  polite.
+123,S2315,8,2024-09-01,Facilities were great and easily accessible.
+124,S5260,6,2024-10-04,Clean environment and well-maintained infrastructure.
+125,S6012,7,2024-08-08,uhh <b>Extremely frustrating experience with the department.</b>
+126,S3059,2,2024-09-30,I had a good experience with the support team.
+127,S2445,2,2024-11-03,"Not much to say, it's functional."
+128,S4844,7,2024-06-20,Clean environment and well-maintained infrastructure.
+129,S7033,2,2024-10-28,I HAD A GOOOD EXPERIENCE WITH THE SUPPORT TEAM.
+130,S8336,6,2024-11-28,uhh  The  system  works  fine  most  of  the  time.
+131,S5122,7,2024-09-28,"uhh Not much to say, it's functional. 😊"
+132,S9472,1,2024-12-19,Facilities were great and easily accessible.
+133,S3225,7,2024-07-17,Clean environment and well-maintained infrastructure.
+134,S5567,1,2024-07-20,The  staff  was  rude  and  unhelpful.
+135,S7558,5,2025-04-15,"Nothing special, just an average experience. 😊"
+136,S9450,4,2024-10-20,uhh I had a good experience with the support team.
+137,S3565,2,2024-12-05,THE  SYSTEM  WORKS  FINE  MOST  OF  THE  TIME.
+138,S5203,8,2024-08-28,uhh  Very  poor  service  and  delayed  response.
+139,S8243,8,2025-05-17,"Nothing special, just an average experience."
+140,S1428,5,2025-05-23,I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+141,S5846,8,2025-01-02,uhh <B>THE STAFF WAS RUDE AND UNHELPFUL.</B>
+142,S5637,7,2024-06-05,I had to wait a long time to get support. 😊
+143,S4683,1,2024-07-06,"<B>IT WAS OKAY, NOT TOO BAAAD.</B>"
+144,S2384,6,2025-01-15,"It was okay, not too bad."
+145,S2018,7,2024-11-09,"Nothing special, just an average experience."
+146,S2742,2,2025-04-01,"It was okay, not too baaad."
+147,S6731,2,2024-08-06,uhh <b>Very poor service and delayed response.</b>
+148,S7743,7,2025-01-04,Facilities were outdated and not working properly.
+149,S3586,3,2024-08-30,The  staff  was  really  helpful  and  polite.  😊
+150,S6024,3,2024-10-02,"It was okay, not too bad."
+151,S7416,3,2025-05-29,"uhh It was okay, not too bad."
+152,S7558,2,2024-09-02,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.
+153,S8211,4,2025-05-12,"uhh IT WAS OKAY, NOT TOO BAAAD. 😊"
+154,S4435,7,2024-07-06,uhh The staff was really helpful and polite.
+155,S7863,5,2024-10-02,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+156,S5949,1,2025-04-22,<B>I HAD TO WAIT A LONG TIME TO GET SUPPORT.</B>
+157,S1100,2,2024-09-18,I had a good experience with the support team.
+158,S3011,1,2024-11-30,The staff was rude and unhelpful.
+159,S1954,1,2024-08-02,"Not much to say, it's functional."
+160,S8243,6,2025-06-01,"<B>NOT MUCH TO SAY, IT'S FUNCTIONAL.</B>"
+161,S7033,1,2024-12-31,THE SERVICES WERE FAST AND EFFECTIVE.
+162,S5122,7,2024-12-16,uhh <b>Clean environment and well-maintained infrastructure.</b>
+163,S2441,5,2024-12-12,The staff was really helpful and polite. 😊
+164,S1083,4,2025-02-02,uhh Clean environment and well-maintained infrastructure.
+165,S5974,6,2025-02-25,uhh I had to wait a long time to get support.
+166,S3520,2,2024-09-03,IT'S DECENT BUT COULD USE SOME IMPROVEMENT.
+167,S5499,4,2025-03-09,"It  was  okay,  not  too  bad.  😊"
+168,S6389,1,2024-08-24,"Not much to say, it's functional."
+169,S3565,6,2024-12-04,Facilities were great and easily accessible.
+170,S2524,7,2024-07-25,uhh  I  had  a  good  experience  with  the  support  team.
+171,S6389,1,2024-10-03,uhh The staff was rude and unhelpful.
+172,S8259,4,2024-09-02,Extremely frustrating experience with the department.
+173,S9472,4,2024-07-18,"It  was  okay,  not  too  bad."
+174,S6953,7,2024-09-22,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+175,S2807,3,2025-04-15,<b>Clean  environment  and  well-maintained  infrastructure.</b>
+176,S3170,3,2025-02-23,uhh Facilities were outdated and not working properly.
+177,S8211,4,2024-07-26,The staff was rude and unhelpful.
+178,S3665,2,2025-03-02,The staff was really helpful and polite.
+179,S4737,5,2025-03-05,The services were fast and effective.
+180,S2315,7,2024-12-31,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+181,S7416,6,2025-03-27,The  system  works  fine  most  of  the  time.
+182,S1028,4,2024-08-09,The services were fast and effective.
+183,S3617,6,2024-09-24,uhh I had to wait a long time to get support.
+184,S1028,7,2025-02-01,THE  SERVICES  WERE  FAST  AND  EFFECTIVE.  😊
+185,S9450,2,2024-08-19,I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+186,S2660,3,2025-01-27,Facilities were great and easily accessible.
+187,S2018,2,2025-04-26,Facilities were great and easily accessible.
+188,S3520,6,2024-12-15,<B>CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.</B>
+189,S6660,7,2024-10-01,uhh The staff was rude and unhelpful.
+190,S3645,3,2024-12-09,Clean  environment  and  well-maintained  infrastructure.
+191,S1200,7,2025-01-21,Very poor service and delayed response.
+192,S2384,4,2025-02-19,<b>The staff was really helpful and polite. 😊</b>
+193,S7790,6,2024-07-10,Clean  environment  and  well-maintained  infrastructure.
+194,S4101,4,2024-08-03,I had a good experience with the support team.
+195,S2321,3,2024-07-14,The staff was really helpful and polite.
+196,S7975,8,2025-02-23,Facilities were great and easily accessible.
+197,S6743,5,2024-07-26,<b>I  had  to  wait  a  long  time  to  get  support.  😊</b>
+198,S4531,8,2024-09-21,I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+199,S6610,1,2024-06-21,Clean environment and well-maintained infrastructure.
+200,S4577,1,2025-05-03,Extremely  frustrating  experience  with  the  department.
+201,S5731,4,2024-08-30,"NOT MUCH TO SAY, IT'S FUNCTIONAL."
+202,S3225,6,2024-12-27,uhh The staff was rude and unhelpful.
+203,S5122,2,2024-12-13,uhh I had to wait a long time to get support. 😊
+204,S7839,3,2024-11-12,The  staff  was  really  helpful  and  polite.
+205,S2445,6,2024-07-02,uhh <b>The services were fast and effective.</b>
+206,S5709,4,2025-05-29,Facilities were outdated and not working properly.
+207,S6126,7,2024-08-20,uhh  Very  poor  servise  and  delayed  response.  😊
+208,S9472,8,2025-04-26,uhh  <b>The  services  were  fast  and  effective.</b>
+209,S4543,1,2025-05-26,"Nothing special, just an average experience."
+210,S2796,1,2024-10-03,It's decent but could use some improvement. 😊
+211,S8561,4,2024-12-23,Extremely frustrating experience with the department. 😊
+212,S8853,3,2025-05-19,Facilities  were  great  and  easily  accessible.
+213,S2524,4,2025-02-23,uhh <b>I had to wait a long time to get support.</b>
+214,S3161,5,2024-11-19,The  staff  was  really  helpful  and  polite.
+215,S7790,6,2025-05-24,<b>The staff was rude and unhelpful. 😊</b>
+216,S1713,7,2025-01-07,Clean environment and well-maintained infrastructure.
+217,S2075,5,2024-12-29,THE STAFF WAS REALLY HELPFUL AND POLITE. 😊
+218,S2742,6,2024-12-13,<b>Facilities were outdated and not working properly.</b>
+219,S2829,8,2025-02-24,IT'S DECENT BUT COULD USE SOME IMPROVEMENT. 😊
+220,S4638,2,2024-12-12,The system works fine most of the time. 😊
+221,S6953,6,2024-07-31,"uhh Not much to say, it's functional."
+222,S8619,2,2024-09-15,uhh Facilities were great and easily accessible.
+223,S7071,4,2024-11-27,IT'S  DECENT  BUT  COULD  USE  SOME  IMPROVEMENT.
+224,S5567,2,2024-10-27,Clean environment and well-maintained infrastructure.
+225,S2567,7,2025-03-25,Extremely frustrating experience with the department.
+226,S5694,5,2025-03-23,I  had  to  wait  a  long  time  to  get  support.
+227,S1737,8,2024-12-25,I had to wait a long time to get support.
+228,S8836,8,2025-01-04,It's decent but could use some improvement. 😊
+229,S6953,6,2024-10-08,The services were fast and effective.
+230,S4752,4,2024-06-11,"Nothing special, just an average experience."
+231,S7697,7,2024-12-17,"Nothing special, just an average experience. 😊"
+232,S3745,1,2024-08-18,uhh The system works fine most of the time.
+233,S6699,5,2025-02-14,FACILITIES  WERE  OUTDATED  AND  NOT  WORKING  PROPERLY.
+234,S9742,5,2025-02-11,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.
+235,S4314,4,2024-07-20,The services were fast and effective.
+236,S2652,1,2025-03-19,<b>Facilities were great and easily accessible.</b>
+237,S5174,6,2025-03-31,Extremely frustrating experience with the department.
+238,S6389,3,2025-04-15,I had to wait a long time to get support.
+239,S7713,2,2024-12-27,<b>Facilities  were  outdated  and  not  working  properly.</b>
+240,S2923,5,2024-10-23,VERY POOR SERVICE AND DELAYED RESPONSE. 😊
+241,S7841,4,2025-04-02,The staff was rude and unhelpful.
+242,S3161,2,2024-12-04,"uhh Not much to say, it's functional."
+243,S2321,6,2024-10-06,"It was okay, not too bad."
+244,S9676,6,2024-09-24,THE STAFF WAS RUDE AND UNHELPFUL. 😊
+245,S1970,8,2025-05-31,The  staff  was  rude  and  unhelpful.
+246,S3814,5,2024-07-02,The staff was really helpful and polite. 😊
+247,S9676,1,2024-11-01,<b>I had a good experience with the support team.</b>
+248,S4510,5,2025-01-12,Facilities were outdated and not working properly.
+249,S4436,6,2025-05-01,Facilities were great and easily accessible. 😊
+250,S8955,2,2024-06-23,Very poor service and delayed response. 😊
+251,S7458,1,2024-12-18,<b>The staff was rude and unhelpful. 😊</b>
+252,S3745,4,2024-07-07,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+253,S4737,6,2025-03-20,"uhh It was okay, not too baaad. 😊"
+254,S4295,2,2025-05-29,The services were fast and effective.
+255,S8900,3,2024-11-08,<b>Extremely  frustrating  experience  with  the  department.</b>
+256,S6157,6,2025-04-01,I had a goood experience with the support team.
+257,S2742,1,2024-08-21,The services were fast and effective.
+258,S5933,3,2025-04-05,I had to wait a long time to get support.
+259,S3721,8,2025-04-29,THE STAFF WAS REALLY HELPFUL AND POLITE.
+260,S6140,5,2024-10-22,"NOTHING  SPECIAL,  JUST  AN  AVERAGE  EXPERIENCE.  😊"
+261,S5637,1,2024-07-29,I had to wait a long time to get support.
+262,S5982,6,2024-08-31,"NOTHING SPECIAL, JUST AN AVERAGE EXPERIENCE."
+263,S2822,4,2024-11-27,It's  decent  but  could  use  some  improvement.
+264,S4999,5,2024-10-31,I had to wait a long time to get support.
+265,S3524,5,2024-09-23,FACILITIES WERE GREAT AND EASILY ACCESSIBLE.
+266,S6906,7,2024-07-17,Very poor service and delayed response.
+267,S8336,6,2025-04-28,THE STAFF WAS REALLY HELPFUL AND POLITE.
+268,S3343,8,2024-07-31,I  HAD  A  GOOD  EXPERIENCE  WITH  THE  SUPPORT  TEAM.
+269,S5858,5,2024-09-24,uhh The staff was really helpful and polite.
+270,S4704,8,2025-03-30,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.
+271,S7476,3,2025-03-16,<b>The  system  works  fine  most  of  the  time.</b>
+272,S7416,8,2024-11-08,It's decent but could use some improvement.
+273,S1758,8,2025-01-27,Facilities were outdated and not working properly.
+274,S4510,4,2024-10-06,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+275,S3059,6,2025-02-23,Clean  environment  and  well-maintained  infrastructure.
+276,S3637,7,2025-01-25,The system works fine most of the time.
+277,S8853,7,2025-01-25,Very  poor  service  and  delayed  response.
+278,S4295,8,2025-04-12,<b>The  services  were  fast  and  effective.</b>
+279,S1432,8,2025-05-02,The staff was rude and unhelpful.
+280,S8259,2,2024-09-05,Clean environment and well-maintained infrastructure.
+281,S2441,4,2024-07-22,uhh The services were fast and effective.
+282,S1855,5,2025-02-19,I  had  to  wait  a  long  time  to  get  support.  😊
+283,S1028,7,2024-06-13,uhh The system works fine most of the time.
+284,S2567,5,2024-10-09,<b>The services were fast and effective.</b>
+285,S9184,7,2024-10-19,Clean environment and well-maintained infrastructure.
+286,S2140,7,2024-09-03,<B>THE STAFF WAS RUDE AND UNHELPFUL.</B>
+287,S3721,3,2024-12-25,The system works fine most of the time.
+288,S4516,6,2024-10-17,The services were fast and effective.
+289,S4101,1,2025-03-14,Facilities  were  outdated  and  not  working  properly.
+290,S2384,6,2025-03-01,The staff was rude and unhelpful.
+291,S4101,2,2024-11-11,<B>FACILITIES  WERE  OUTDATED  AND  NOT  WORKING  PROPERLY.  😊</B>
+292,S8051,3,2024-06-10,uhh <b>I had a good experience with the support team.</b>
+293,S4045,8,2024-11-27,uhh  <b>It's  decent  but  could  use  some  improvement.</b>
+294,S2286,6,2025-01-16,Extremely frustrating experience with the department.
+295,S6126,5,2025-02-01,<B>CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.</B>
+296,S5567,1,2024-11-13,Extremely frustrating experience with the department.
+297,S1552,4,2025-05-14,I had a goood experience with the support team. 😊
+298,S2061,1,2025-01-07,Very poor servise and delayed response.
+299,S9387,6,2025-02-24,Very poor service and delayed response. 😊
+300,S6113,6,2024-09-25,<b>The services were fast and effective.</b>
+301,S9290,7,2025-05-09,uhh The system works fine most of the time.
+302,S4090,8,2024-11-23,<b>Extremely  frustrating  experience  with  the  department.</b>
+303,S1450,4,2024-09-09,Extremely frustrating experience with the department. 😊
+304,S3161,7,2024-10-22,The  staff  was  rude  and  unhelpful.
+305,S4554,5,2024-06-30,Facilities were outdated and not working properly.
+306,S3059,3,2025-02-09,The services were fast and effective.
+307,S1251,8,2025-01-13,"Not  much  to  say,  it's  functional."
+308,S5499,4,2025-04-15,uhh The services were fast and effective.
+309,S4314,2,2024-07-20,The staff was really helpful and polite.
+310,S5260,8,2025-02-27,"uhh It was okay, not too baaad."
+311,S2742,8,2024-10-14,The staff was rude and unhelpful.
+312,S4844,6,2024-12-24,Very  poor  service  and  delayed  response.
+313,S2796,7,2025-02-01,Clean  environment  and  well-maintained  infrastructure.
+314,S1107,2,2025-01-25,<b>Facilities were outdated and not working properly.</b>
+315,S4295,8,2024-07-24,uhh Facilities were great and easily accessible.
+316,S3418,8,2024-10-18,<b>Extremely frustrating experience with the department.</b>
+317,S3426,8,2024-07-03,I had a good experience with the support team.
+318,S7575,2,2024-09-17,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+319,S6392,6,2025-03-28,"<B>NOT MUCH TO SAY, IT'S FUNCTIONAL.</B>"
+320,S2660,2,2024-07-17,The staff was really helpful and polite.
+321,S8211,5,2025-02-11,Extremely frustrating experience with the department. 😊
+322,S9450,6,2024-10-31,The  staff  was  really  helpful  and  polite.
+323,S8003,1,2025-04-08,Facilities were great and easily accessible. 😊
+324,S3343,6,2025-05-14,Facilities were great and easily accessible. 😊
+325,S3059,6,2025-04-18,"Not much to say, it's functional."
+326,S7071,3,2025-05-17,The staff was really helpful and polite.
+327,S1626,3,2025-05-07,Facilities were great and easily accessible.
+328,S5428,8,2024-10-22,The services were fast and effective.
+329,S6953,8,2025-02-15,Facilities  were  great  and  easily  accessible.
+330,S1740,8,2024-06-06,"<B>NOT MUCH TO SAY, IT'S FUNCTIONAL.</B>"
+331,S9446,1,2024-10-03,THE SYSTEM WORKS FINE MOST OF THE TIME.
+332,S2018,8,2024-07-08,"<b>It  was  okay,  not  too  bad.  😊</b>"
+333,S6540,5,2024-08-05,Facilities  were  outdated  and  not  working  properly.
+334,S2075,7,2024-07-27,Extremely  frustrating  experience  with  the  department.  😊
+335,S8955,3,2024-12-21,The  staff  was  really  helpful  and  polite.
+336,S4704,2,2025-02-16,The  staff  was  rude  and  unhelpful.
+337,S6892,5,2024-06-14,The  staff  was  rude  and  unhelpful.  😊
+338,S1908,2,2024-12-30,uhh I had a good experience with the support team.
+339,S3035,3,2024-08-01,<b>The services were fast and effective.</b>
+340,S8291,7,2024-08-27,<B>THE SERVICES WERE FAST AND EFFECTIVE. 😊</B>
+341,S5619,8,2024-06-15,The  staff  was  rude  and  unhelpful.
+342,S2822,2,2024-09-10,Facilities were outdated and not working properly. 😊
+343,S2807,2,2024-08-05,"Not  much  to  say,  it's  functional."
+344,S4844,3,2024-12-18,THE SERVICES WERE FAST AND EFFECTIVE.
+345,S1970,2,2024-08-22,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+346,S6618,7,2024-10-19,It's decent but could use some improvement. 😊
+347,S9161,4,2025-02-26,uhh  Facilities  were  outdated  and  not  working  properly.
+348,S9743,6,2024-08-29,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+349,S7732,6,2024-10-02,<b>The services were fast and effective.</b>
+350,S2796,3,2024-10-27,<b>The staff was rude and unhelpful. 😊</b>
+351,S2315,2,2025-04-14,THE STAFF WAS REALLY HELPFUL AND POLITE.
+352,S4435,2,2025-03-01,<b>Clean  environment  and  well-maintained  infrastructure.</b>
+353,S4843,6,2025-04-20,It's decent but could use some improvement.
+354,S2597,3,2025-05-22,uhh Extremely frustrating experience with the department.
+355,S1048,5,2024-10-04,<b>The staff was rude and unhelpful.</b>
+356,S1908,6,2024-12-21,Extremely frustrating experience with the department.
+357,S3645,8,2025-03-20,uhh The staff was really helpful and polite.
+358,S8969,8,2024-11-10,Very poor servise and delayed response.
+359,S1048,7,2024-06-16,Very poor service and delayed response.
+360,S2441,6,2024-12-14,<b>Facilities were great and easily accessible. 😊</b>
+361,S1308,8,2024-07-10,Facilities were outdated and not working properly.
+362,S4975,5,2024-08-18,<b>Facilities were outdated and not working properly.</b>
+363,S9341,1,2025-01-26,Extremely frustrating experience with the department.
+364,S1552,6,2025-05-27,The staff was really helpful and polite.
+365,S8967,5,2025-04-14,uhh <b>Very poor service and delayed response. 😊</b>
+366,S5949,8,2025-03-18,The services were fast and effective.
+367,S5974,4,2024-09-24,uhh <b>I had to wait a long time to get support.</b>
+368,S4599,3,2025-02-19,Facilities were great and easily accessible.
+369,S1881,2,2024-07-20,I had a goood experience with the support team.
+370,S2075,7,2025-03-12,The  staff  was  really  helpful  and  polite.
+371,S8336,4,2024-09-19,The  staff  was  rude  and  unhelpful.
+372,S9998,7,2024-09-08,uhh <b>Facilities were outdated and not working properly.</b>
+373,S1720,3,2024-11-07,The staff was really helpful and polite.
+374,S7917,5,2025-04-19,uhh <B>FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.</B>
+375,S9350,5,2024-08-10,"uhh It was okay, not too bad."
+376,S7487,5,2024-08-28,FACILITIES WERE GREAT AND EASILY ACCESSIBLE.
+377,S3586,4,2025-03-18,"Nothing special, just an average experience. 😊"
+378,S4975,3,2024-08-15,Very poor service and delayed response.
+379,S4090,7,2025-04-22,Clean environment and well-maintained infrastructure.
+380,S8090,2,2025-02-24,The staff was really helpful and polite. 😊
+381,S3095,8,2025-03-13,THE STAFF WAS REALLY HELPFUL AND POLITE.
+382,S8538,6,2024-11-24,Facilities  were  outdated  and  not  working  properly.
+383,S3520,2,2025-01-07,VERY  POOR  SERVISE  AND  DELAYED  RESPONSE.
+384,S6540,8,2024-08-14,"uhh It was okay, not too bad."
+385,S5428,6,2025-04-07,<b>The services were fast and effective.</b>
+386,S8291,1,2024-09-10,Very poor service and delayed response.
+387,S2652,8,2025-04-20,<b>Facilities were outdated and not working properly.</b>
+388,S7743,1,2024-09-03,<b>Very poor servise and delayed response.</b>
+389,S7966,6,2025-06-03,IT'S DECENT BUT COULD USE SOME IMPROVEMENT. 😊
+390,S9445,2,2025-03-28,uhh I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+391,S3565,7,2025-01-26,I had to wait a long time to get support.
+392,S5375,8,2024-11-11,I had to wait a long time to get support.
+393,S9450,3,2024-06-07,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+394,S4617,4,2024-07-27,"uhh It was okay, not too bad. 😊"
+395,S6113,5,2025-04-18,uhh Very poor service and delayed response. 😊
+396,S3565,2,2024-12-13,Very poor service and delayed response. 😊
+397,S5174,4,2025-05-12,uhh The services were fast and effective.
+398,S9721,6,2024-10-20,"Nothing special, just an average experience."
+399,S4654,3,2024-11-25,Facilities were outdated and not working properly.
+400,S6505,6,2024-10-24,uhh The staff was rude and unhelpful. 😊
+401,S4737,7,2025-01-02,The services were fast and effective.
+402,S6024,7,2024-06-25,It's decent but could use some improvement.
+403,S4269,7,2025-05-02,The  system  works  fine  most  of  the  time.
+404,S6392,2,2024-08-27,"<b>Nothing special, just an average experience.</b>"
+405,S2481,1,2024-07-26,Facilities  were  great  and  easily  accessible.
+406,S9742,6,2025-03-01,I had to wait a long time to get support.
+407,S5304,6,2025-01-14,The staff was really helpful and polite.
+408,S2796,4,2025-01-29,Clean environment and well-maintained infrastructure.
+409,S2652,6,2024-12-21,<b>Extremely  frustrating  experience  with  the  department.</b>
+410,S3000,6,2024-12-24,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+411,S5637,2,2024-07-24,<B>THE STAFF WAS RUDE AND UNHELPFUL.</B>
+412,S3225,2,2024-10-01,Facilities were outdated and not working properly.
+413,S5933,5,2025-01-04,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+414,S5731,8,2024-09-24,uhh I had to wait a long time to get support. 😊
+415,S1740,7,2025-03-19,uhh Clean environment and well-maintained infrastructure.
+416,S6166,3,2024-10-29,EXTREMELY  FRUSTRATING  EXPERIENCE  WITH  THE  DEPARTMENT.
+417,S2923,6,2025-04-05,uhh Clean environment and well-maintained infrastructure.
+418,S9450,7,2025-05-14,uhh  Facilities  were  outdated  and  not  working  properly.
+419,S3170,6,2024-07-15,<b>Facilities were outdated and not working properly.</b>
+420,S6126,7,2024-06-23,THE STAFF WAS RUDE AND UNHELPFUL. 😊
+421,S5174,4,2025-02-02,The system works fine most of the time.
+422,S5949,4,2025-04-08,The staff was really helpful and polite.
+423,S1655,3,2025-01-19,The system works fine most of the time.
+424,S5662,6,2024-08-25,Extremely frustrating experience with the department.
+425,S9450,6,2024-10-31,uhh <b>The staff was really helpful and polite.</b>
+426,S4599,4,2025-03-26,I had to wait a long time to get support.
+427,S2155,2,2024-09-01,Very poor service and delayed response.
+428,S7416,4,2025-03-03,Very  poor  service  and  delayed  response.  😊
+429,S3745,1,2024-12-28,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+430,S3617,5,2024-10-02,Facilities were great and easily accessible.
+431,S9341,7,2024-10-05,"Not  much  to  say,  it's  functional."
+432,S6254,4,2025-04-02,uhh EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT. 😊
+433,S1975,1,2024-06-15,Clean environment and well-maintained infrastructure. 😊
+434,S9743,7,2024-06-27,<b>Clean environment and well-maintained infrastructure.</b>
+435,S4090,7,2025-04-23,It's decent but could use some improvement.
+436,S4295,1,2024-06-23,Clean environment and well-maintained infrastructure. 😊
+437,S8090,5,2025-02-15,THE  SYSTEM  WORKS  FINE  MOST  OF  THE  TIME.
+438,S5957,7,2024-06-29,THE  SYSTEM  WORKS  FINE  MOST  OF  THE  TIME.
+439,S8329,8,2024-06-18,"<b>It  was  okay,  not  too  bad.</b>"
+440,S7487,1,2025-01-16,"uhh Not much to say, it's functional."
+441,S8900,6,2025-04-06,<b>The  staff  was  rude  and  unhelpful.</b>
+442,S2597,8,2024-09-26,Facilities were outdated and not working properly.
+443,S3103,1,2025-01-26,Very poor service and delayed response.
+444,S3459,2,2024-07-22,uhh The staff was really helpful and polite.
+445,S4445,6,2025-04-20,Facilities were great and easily accessible. 😊
+446,S3000,4,2025-03-14,The staff was really helpful and polite.
+447,S5662,4,2024-08-20,Extremely  frustrating  experience  with  the  department.
+448,S9445,3,2025-05-22,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE.
+449,S3645,8,2024-08-04,Clean  environment  and  well-maintained  infrastructure.
+450,S8461,5,2025-04-21,uhh THE STAFF WAS REALLY HELPFUL AND POLITE.
+451,S2567,1,2025-03-23,Very poor servise and delayed response.
+452,S6906,6,2024-07-15,"uhh Not much to say, it's functional."
+453,S5595,8,2024-10-31,EXTREMELY  FRUSTRATING  EXPERIENCE  WITH  THE  DEPARTMENT.
+454,S1365,1,2025-02-24,I  had  a  good  experience  with  the  support  team.
+455,S6737,1,2024-08-07,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+456,S3170,5,2025-03-27,The services were fast and effective.
+457,S7917,6,2024-06-23,<b>The system works fine most of the time.</b>
+458,S3745,6,2025-04-14,uhh I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+459,S8853,3,2024-10-14,<B>IT'S DECENT BUT COULD USE SOME IMPROVEMENT.</B>
+460,S5016,3,2025-04-22,CLEAN ENVIRONMENT AND WELL-MAINTAINED INFRASTRUCTURE. 😊
+461,S6940,7,2025-05-21,uhh VERY POOR SERVISE AND DELAYED RESPONSE.
+462,S2610,4,2024-07-23,"NOTHING SPECIAL, JUST AN AVERAGE EXPERIENCE."
+463,S4577,2,2025-04-30,I had to wait a long time to get support.
+464,S8955,6,2024-07-29,"It was okay, not too bad. 😊"
+465,S8329,4,2025-02-02,Extremely frustrating experience with the department. 😊
+466,S5982,8,2024-09-27,The services were fast and effective. 😊
+467,S6254,8,2024-07-02,It's decent but could use some improvement.
+468,S3459,6,2024-09-24,uhh FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+469,S3665,5,2024-09-14,<b>The staff was really helpful and polite.</b>
+470,S8211,1,2025-03-22,Facilities were outdated and not working properly.
+471,S6577,6,2025-03-23,<b>Clean environment and well-maintained infrastructure.</b>
+472,S6737,7,2024-06-12,I had to wait a long time to get support. 😊
+473,S5307,7,2024-08-18,I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+474,S6314,5,2024-12-30,Clean environment and well-maintained infrastructure. 😊
+475,S7732,1,2025-05-26,uhh Extremely frustrating experience with the department.
+476,S5459,1,2025-03-30,VERY  POOR  SERVICE  AND  DELAYED  RESPONSE.
+477,S4090,3,2025-03-23,THE  STAFF  WAS  RUDE  AND  UNHELPFUL.
+478,S4435,7,2025-05-24,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+479,S4510,4,2024-12-24,The staff was rude and unhelpful.
+480,S2321,7,2024-12-10,The staff was rude and unhelpful.
+481,S6745,3,2024-07-07,I  had  a  good  experience  with  the  support  team.  😊
+482,S7975,6,2025-01-02,It's decent but could use some improvement.
+483,S4737,2,2024-06-21,Facilities were outdated and not working properly.
+484,S5982,4,2024-10-04,uhh Extremely frustrating experience with the department. 😊
+485,S1450,2,2025-05-25,Extremely frustrating experience with the department.
+486,S9721,8,2024-07-12,"Nothing special, just an average experience."
+487,S7917,7,2024-09-16,<b>I had a goood experience with the support team.</b>
+488,S7720,7,2025-04-12,uhh I had a good experience with the support team. 😊
+489,S2738,5,2024-11-04,I  had  to  wait  a  long  time  to  get  support.
+490,S5171,4,2025-01-09,THE SERVICES WERE FAST AND EFFECTIVE.
+491,S5428,1,2025-02-23,Very poor service and delayed response.
+492,S1028,4,2024-06-12,<b>The  services  were  fast  and  effective.</b>
+493,S2481,4,2025-01-17,uhh  I  had  a  goood  experience  with  the  support  team.
+494,S5307,5,2025-04-01,The staff was rude and unhelpful.
+495,S3120,3,2025-05-09,uhh I had to wait a long time to get support.
+496,S8123,6,2024-09-20,Extremely  frustrating  experience  with  the  department.
+497,S2597,2,2025-01-19,I had to wait a long time to get support. 😊
+498,S9975,4,2025-04-16,THE  SERVICES  WERE  FAST  AND  EFFECTIVE.
+499,S4704,5,2024-11-03,uhh  The  services  were  fast  and  effective.
+500,S2524,1,2024-12-20,uhh Facilities were outdated and not working properly. 😊
+501,S4704,3,2025-05-14,I had to wait a long time to get support.
+502,S9743,2,2025-04-12,<b>The services were fast and effective.</b>
+503,S8786,4,2025-03-30,"Not  much  to  say,  it's  functional."
+504,S5662,4,2024-12-13,I had a goood experience with the support team.
+505,S8709,7,2025-03-21,Clean environment and well-maintained infrastructure.
+506,S7732,7,2025-05-20,Very  poor  service  and  delayed  response.
+507,S8259,3,2025-01-08,uhh I had a goood experience with the support team.
+508,S5050,3,2024-10-15,uhh THE SERVICES WERE FAST AND EFFECTIVE.
+509,S2321,4,2024-09-24,I had to wait a long time to get support. 😊
+510,S9445,3,2025-05-28,THE SERVICES WERE FAST AND EFFECTIVE.
+511,S5203,5,2024-10-22,"NOT MUCH TO SAY, IT'S FUNCTIONAL."
+512,S1308,3,2024-09-06,The system works fine most of the time. 😊
+513,S4101,4,2025-03-08,uhh  EXTREMELY  FRUSTRATING  EXPERIENCE  WITH  THE  DEPARTMENT.
+514,S9743,5,2024-10-19,uhh EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+515,S4554,1,2024-08-20,Very  poor  service  and  delayed  response.
+516,S2923,2,2024-12-12,uhh  <b>Facilities  were  outdated  and  not  working  properly.</b>
+517,S7558,6,2024-08-25,Very poor service and delayed response.
+518,S1580,4,2025-03-03,VERY POOR SERVISE AND DELAYED RESPONSE.
+519,S1655,7,2025-05-04,uhh  I  had  to  wait  a  long  time  to  get  support.  😊
+520,S8291,1,2024-12-05,The staff was rude and unhelpful.
+521,S3721,4,2025-05-30,Facilities were outdated and not working properly.
+522,S2219,4,2024-06-27,"Nothing special, just an average experience."
+523,S5997,4,2025-06-01,Facilities were outdated and not working properly.
+524,S4617,7,2025-02-15,"It was okay, not too baaad."
+525,S2265,4,2024-09-30,IT'S DECENT BUT COULD USE SOME IMPROVEMENT.
+526,S8291,2,2025-02-06,uhh The staff was really helpful and polite.
+527,S4281,8,2024-11-25,uhh Facilities were outdated and not working properly.
+528,S7328,7,2024-08-09,Clean environment and well-maintained infrastructure.
+529,S8785,2,2024-08-15,The system works fine most of the time.
+530,S1450,5,2024-12-19,The  staff  was  really  helpful  and  polite.
+531,S7917,1,2024-12-29,The staff was really helpful and polite.
+532,S4640,4,2024-06-17,<B>THE STAFF WAS RUDE AND UNHELPFUL. 😊</B>
+533,S8619,4,2025-01-30,<B>THE STAFF WAS RUDE AND UNHELPFUL. 😊</B>
+534,S8307,1,2024-09-30,<B>I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.</B>
+535,S6314,3,2025-04-24,uhh Facilities were outdated and not working properly.
+536,S9743,5,2024-12-10,I had to wait a long time to get support.
+537,S1713,3,2025-01-14,uhh Extremely frustrating experience with the department.
+538,S1720,5,2024-11-28,uhh <b>Facilities were great and easily accessible.</b>
+539,S3745,8,2025-02-18,uhh <b>I had a good experience with the support team.</b>
+540,S9975,5,2025-02-23,"Nothing special, just an average experience."
+541,S1428,7,2025-04-26,VERY POOR SERVICE AND DELAYED RESPONSE. 😊
+542,S1048,4,2024-11-27,"Nothing special, just an average experience."
+543,S8709,5,2025-02-27,uhh THE SYSTEM WORKS FINE MOST OF THE TIME. 😊
+544,S3095,6,2024-08-30,Clean environment and well-maintained infrastructure.
+545,S5459,1,2024-11-13,Facilities were outdated and not working properly. 😊
+546,S5375,1,2024-10-14,"Not much to say, it's functional."
+547,S4203,4,2025-01-12,"Nothing special, just an average experience."
+548,S3745,2,2024-10-06,uhh IT'S DECENT BUT COULD USE SOME IMPROVEMENT.
+549,S4510,3,2024-12-29,THE SYSTEM WORKS FINE MOST OF THE TIME.
+550,S9766,5,2024-07-25,<b>The staff was really helpful and polite.</b>
+551,S6012,2,2025-05-20,<b>Very  poor  service  and  delayed  response.</b>
+552,S7654,1,2024-07-21,I had to wait a long time to get support.
+553,S6505,4,2024-10-17,I had a goood experience with the support team.
+554,S9058,3,2024-07-24,<b>The staff was rude and unhelpful.</b>
+555,S5203,3,2024-08-04,Clean environment and well-maintained infrastructure.
+556,S5166,2,2025-05-01,Very poor service and delayed response. 😊
+557,S5626,2,2024-07-14,Clean environment and well-maintained infrastructure. 😊
+558,S5536,5,2025-02-05,THE  SERVICES  WERE  FAST  AND  EFFECTIVE.
+559,S2366,4,2025-03-31,Facilities were outdated and not working properly.
+560,S1107,1,2024-12-20,The staff was rude and unhelpful.
+561,S1908,7,2024-09-21,uhh I had to wait a long time to get support.
+562,S4843,8,2024-08-28,Facilities were great and easily accessible.
+563,S1327,3,2024-06-29,THE SERVICES WERE FAST AND EFFECTIVE. 😊
+564,S9350,1,2024-08-14,Very poor servise and delayed response.
+565,S1327,6,2025-05-11,Very  poor  service  and  delayed  response.
+566,S4090,6,2024-07-09,<b>The staff was rude and unhelpful. 😊</b>
+567,S6618,7,2024-07-08,I had a goood experience with the support team. 😊
+568,S3617,7,2024-06-13,The staff was really helpful and polite.
+569,S7416,6,2024-09-13,I had a good experience with the support team.
+570,S8967,4,2024-08-07,Clean environment and well-maintained infrastructure.
+571,S3665,8,2024-10-15,uhh Clean environment and well-maintained infrastructure.
+572,S2537,1,2025-06-01,I  had  a  good  experience  with  the  support  team.
+573,S4295,7,2024-07-30,I had a good experience with the support team.
+574,S9472,3,2025-04-27,uhh I had a good experience with the support team. 😊
+575,S6254,5,2024-06-19,<b>The staff was really helpful and polite.</b>
+576,S6024,6,2024-11-20,I  had  to  wait  a  long  time  to  get  support.
+577,S4599,1,2024-12-11,The services were fast and effective.
+578,S4014,7,2025-05-12,It's decent but could use some improvement.
+579,S4683,1,2024-08-06,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.
+580,S8123,1,2024-06-08,I had to wait a long time to get support.
+581,S3161,7,2024-06-30,"<B>IT WAS OKAY, NOT TOO BAD.</B>"
+582,S2660,3,2024-09-18,The services were fast and effective.
+583,S8969,7,2024-10-28,Clean  environment  and  well-maintained  infrastructure.
+584,S4045,1,2024-12-08,Very poor service and delayed response.
+585,S7975,1,2024-07-04,I had to wait a long time to get support.
+586,S8291,6,2024-09-12,<b>I had to wait a long time to get support.</b>
+587,S6940,8,2025-01-17,"Nothing special, just an average experience. 😊"
+588,S7071,7,2024-09-15,It's decent but could use some improvement.
+589,S3418,1,2025-03-17,uhh Very poor service and delayed response.
+590,S1432,7,2025-03-31,Extremely frustrating experience with the department.
+591,S8538,6,2024-09-03,<B>I HAD TO WAIT A LONG TIME TO GET SUPPORT. 😊</B>
+592,S6953,2,2025-01-25,Facilities  were  great  and  easily  accessible.
+593,S4617,8,2024-07-23,Facilities were great and easily accessible. 😊
+594,S1956,1,2025-05-24,THE STAFF WAS REALLY HELPFUL AND POLITE.
+595,S7917,5,2024-09-27,uhh  <b>Facilities  were  great  and  easily  accessible.</b>
+596,S9953,4,2024-07-08,VERY POOR SERVICE AND DELAYED RESPONSE.
+597,S8106,6,2025-01-25,<b>Clean environment and well-maintained infrastructure.</b>
+598,S1882,5,2025-03-14,uhh The system works fine most of the time. 😊
+599,S6737,4,2024-12-01,Extremely frustrating experience with the department.
+600,S5260,3,2024-11-24,Facilities were outdated and not working properly.
+601,S2253,5,2024-11-30,Extremely frustrating experience with the department.
+602,S4445,8,2024-12-14,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT. 😊
+603,S4737,7,2025-04-28,uhh  The  system  works  fine  most  of  the  time.
+604,S1737,3,2024-08-27,uhh It's decent but could use some improvement.
+605,S4844,4,2025-04-23,Facilities were outdated and not working properly. 😊
+606,S5595,6,2024-09-16,I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.
+607,S4435,2,2024-08-26,VERY POOR SERVISE AND DELAYED RESPONSE.
+608,S9399,5,2024-12-25,Clean environment and well-maintained infrastructure. 😊
+609,S1954,5,2024-07-02,Clean environment and well-maintained infrastructure.
+610,S7882,8,2025-02-06,Facilities  were  outdated  and  not  working  properly.
+611,S9743,4,2024-07-04,THE STAFF WAS REALLY HELPFUL AND POLITE. 😊
+612,S6640,8,2025-01-23,Facilities were outdated and not working properly.
+613,S2923,7,2024-11-22,Clean environment and well-maintained infrastructure.
+614,S4436,2,2024-09-20,THE SERVICES WERE FAST AND EFFECTIVE.
+615,S5731,2,2024-06-16,uhh The staff was really helpful and polite.
+616,S7033,6,2024-11-27,THE  STAFF  WAS  RUDE  AND  UNHELPFUL.
+617,S6829,2,2024-07-01,uhh <b>Extremely frustrating experience with the department.</b>
+618,S1601,2,2024-10-16,"Nothing special, just an average experience."
+619,S4327,4,2024-11-29,Clean environment and well-maintained infrastructure.
+620,S1083,7,2025-01-07,The  staff  was  rude  and  unhelpful.  😊
+621,S2822,6,2024-06-18,<b>Facilities  were  outdated  and  not  working  properly.</b>
+622,S4327,5,2024-07-13,THE STAFF WAS RUDE AND UNHELPFUL.
+623,S4843,1,2025-04-02,<B>IT'S DECENT BUT COULD USE SOME IMPROVEMENT.</B>
+624,S1713,7,2025-01-04,uhh <b>The staff was really helpful and polite.</b>
+625,S6157,2,2024-09-28,<b>Extremely frustrating experience with the department. 😊</b>
+626,S7444,8,2025-05-11,The staff was rude and unhelpful.
+627,S8329,5,2024-12-23,<b>Facilities were great and easily accessible. 😊</b>
+628,S6300,3,2025-02-16,I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+629,S9998,1,2024-11-19,It's decent but could use some improvement.
+630,S6906,3,2024-07-15,Facilities were outdated and not working properly.
+631,S4327,1,2024-06-11,<B>FACILITIES WERE GREAT AND EASILY ACCESSIBLE.</B>
+632,S2796,5,2025-05-16,uhh  I  had  to  wait  a  long  time  to  get  support.
+633,S2315,6,2025-05-14,Very poor service and delayed response.
+634,S2807,4,2024-11-03,uhh FACILITIES WERE GREAT AND EASILY ACCESSIBLE.
+635,S5982,4,2025-02-27,<B>THE SYSTEM WORKS FINE MOST OF THE TIME.</B>
+636,S6254,4,2025-06-03,The staff was really helpful and polite.
+637,S8307,2,2025-04-10,I  had  a  good  experience  with  the  support  team.
+638,S2140,2,2025-04-26,uhh I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.
+639,S5553,6,2025-04-18,<b>Very poor service and delayed response.</b>
+640,S4445,4,2025-02-11,uhh  FACILITIES  WERE  OUTDATED  AND  NOT  WORKING  PROPERLY.  😊
+641,S3645,5,2024-07-01,Facilities were outdated and not working properly.
+642,S5304,3,2024-08-07,The services were fast and effective.
+643,S2537,7,2025-05-12,I had a good experience with the support team.
+644,S2738,5,2024-09-04,uhh  <b>Extremely  frustrating  experience  with  the  department.</b>
+645,S4327,2,2025-03-14,I had to wait a long time to get support.
+646,S9676,6,2025-04-27,<b>The services were fast and effective.</b>
+647,S4999,5,2025-03-07,"Not much to say, it's functional. 😊"
+648,S4843,3,2024-11-28,Facilities  were  great  and  easily  accessible.
+649,S7882,1,2024-08-08,I  HAD  TO  WAIT  A  LONG  TIME  TO  GET  SUPPORT.
+650,S8836,3,2025-03-06,THE  SERVICES  WERE  FAST  AND  EFFECTIVE.
+651,S4617,3,2025-03-26,THE  STAFF  WAS  RUDE  AND  UNHELPFUL.
+652,S2742,4,2024-12-21,The services were fast and effective.
+653,S8051,6,2024-10-22,Clean environment and well-maintained infrastructure.
+654,S2445,1,2025-04-14,<b>The staff was really helpful and polite. 😊</b>
+655,S4752,2,2024-11-05,Very poor service and delayed response.
+656,S5934,4,2024-09-16,"It was okay, not too bad."
+657,S3161,2,2024-11-04,I  had  a  good  experience  with  the  support  team.
+658,S8051,5,2024-12-22,Facilities were great and easily accessible.
+659,S4999,5,2024-07-01,I had to wait a long time to get support.
+660,S9290,5,2025-01-07,Facilities  were  outdated  and  not  working  properly.
+661,S3225,5,2024-08-24,Facilities were great and easily accessible. 😊
+662,S8106,6,2025-02-27,<b>The services were fast and effective.</b>
+663,S1908,6,2024-09-07,uhh <B>EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.</B>
+664,S4045,3,2025-05-15,I had a goood experience with the support team.
+665,S6940,3,2024-12-21,The services were fast and effective. 😊
+666,S5203,4,2025-04-24,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+667,S8785,6,2024-06-06,<B>I HAD A GOOOD EXPERIENCE WITH THE SUPPORT TEAM.</B>
+668,S6166,1,2025-06-03,The staff was really helpful and polite.
+669,S2445,8,2025-05-17,I  had  a  goood  experience  with  the  support  team.  😊
+670,S5849,7,2025-01-10,<B>I HAD TO WAIT A LONG TIME TO GET SUPPORT. 😊</B>
+671,S1970,1,2025-05-24,uhh Extremely frustrating experience with the department.
+672,S8003,6,2025-04-18,Facilities were great and easily accessible.
+673,S4737,1,2024-12-30,The  staff  was  really  helpful  and  polite.  😊
+674,S8090,5,2024-09-14,uhh Facilities were great and easily accessible.
+675,S5553,7,2025-02-03,THE STAFF WAS REALLY HELPFUL AND POLITE.
+676,S2567,1,2025-05-06,I  had  a  good  experience  with  the  support  team.  😊
+677,S7743,2,2025-02-17,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM. 😊
+678,S2321,5,2025-02-04,uhh <b>Facilities were great and easily accessible. 😊</b>
+679,S8461,8,2025-02-05,The staff was really helpful and polite.
+680,S3000,4,2025-05-23,"It was okay, not too bad."
+681,S5846,1,2024-07-12,THE STAFF WAS RUDE AND UNHELPFUL.
+682,S5887,2,2024-11-16,Clean environment and well-maintained infrastructure.
+683,S9450,3,2024-10-08,"Not much to say, it's functional. 😊"
+684,S3637,3,2025-04-03,Facilities were outdated and not working properly. 😊
+685,S9728,4,2024-06-06,<b>I had a good experience with the support team.</b>
+686,S3459,7,2024-11-15,I had a good experience with the support team.
+687,S5045,2,2025-02-08,The staff was really helpful and polite.
+688,S5304,5,2024-07-09,It's decent but could use some improvement. 😊
+689,S5846,7,2025-03-22,<b>The staff was really helpful and polite.</b>
+690,S4327,3,2024-12-05,The staff was really helpful and polite.
+691,S4805,7,2025-04-17,<B>THE  STAFF  WAS  REALLY  HELPFUL  AND  POLITE.</B>
+692,S3103,6,2024-07-30,"uhh Nothing special, just an average experience."
+693,S6660,2,2024-07-02,The staff was rude and unhelpful.
+694,S7790,8,2024-09-25,FACILITIES WERE GREAT AND EASILY ACCESSIBLE.
+695,S1737,7,2024-09-07,Facilities were outdated and not working properly.
+696,S8003,8,2025-04-19,<b>It's decent but could use some improvement.</b>
+697,S7743,1,2024-09-15,I had to wait a long time to get support.
+698,S4090,8,2024-12-02,The staff was really helpful and polite.
+699,S6892,3,2025-03-22,THE STAFF WAS REALLY HELPFUL AND POLITE.
+700,S7743,4,2024-09-08,Facilities were great and easily accessible.
+701,S4599,6,2025-05-27,<b>I  had  a  good  experience  with  the  support  team.</b>
+702,S7720,6,2025-05-03,<b>Extremely frustrating experience with the department.</b>
+703,S2155,3,2025-05-31,uhh The services were fast and effective.
+704,S3011,2,2024-09-19,Clean environment and well-maintained infrastructure.
+705,S9742,4,2024-10-21,uhh Very poor service and delayed response.
+706,S3025,4,2024-06-17,uhh  Facilities  were  great  and  easily  accessible.  😊
+707,S8003,2,2024-08-19,Very poor service and delayed response.
+708,S6610,8,2025-01-31,Facilities were great and easily accessible.
+709,S7444,8,2024-07-18,The staff was rude and unhelpful.
+710,S5887,1,2025-01-20,I had a goood experience with the support team. 😊
+711,S4436,6,2024-11-12,The system works fine most of the time.
+712,S5982,8,2024-12-26,uhh Very poor service and delayed response.
+713,S9370,1,2025-05-22,It's decent but could use some improvement.
+714,S3565,4,2025-03-07,Facilities were great and easily accessible.
+715,S6300,7,2025-04-16,uhh  <B>THE  STAFF  WAS  RUDE  AND  UNHELPFUL.</B>
+716,S9676,3,2025-05-05,uhh  Extremely  frustrating  experience  with  the  department.
+717,S6024,6,2024-06-04,"uhh Not much to say, it's functional."
+718,S8709,1,2024-08-13,The  services  were  fast  and  effective.
+719,S2265,2,2024-07-14,Extremely frustrating experience with the department.
+720,S6660,1,2024-10-30,I HAD TO WAIT A LONG TIME TO GET SUPPORT. 😊
+721,S7713,2,2025-04-20,THE SERVICES WERE FAST AND EFFECTIVE. 😊
+722,S3088,5,2024-12-16,The staff was rude and unhelpful.
+723,S9446,5,2025-02-03,I had a good experience with the support team.
+724,S6618,6,2024-10-12,<B>THE STAFF WAS REALLY HELPFUL AND POLITE.</B>
+725,S9370,8,2025-03-22,uhh  <b>I  had  a  good  experience  with  the  support  team.</b>
+726,S4045,8,2024-10-22,"NOT MUCH TO SAY, IT'S FUNCTIONAL."
+727,S4805,7,2024-09-10,Clean environment and well-maintained infrastructure.
+728,S8786,7,2024-11-20,I  had  a  goood  experience  with  the  support  team.
+729,S5375,8,2024-09-03,VERY POOR SERVICE AND DELAYED RESPONSE.
+730,S5949,5,2024-06-10,<B>I HAD TO WAIT A LONG TIME TO GET SUPPORT.</B>
+731,S1882,4,2024-10-04,<b>The staff was really helpful and polite.</b>
+732,S9742,1,2025-01-06,uhh Facilities were great and easily accessible.
+733,S3103,4,2025-04-29,"uhh NOT MUCH TO SAY, IT'S FUNCTIONAL. 😊"
+734,S4014,6,2024-06-20,Facilities were great and easily accessible.
+735,S2366,3,2024-12-18,I  had  to  wait  a  long  time  to  get  support.
+736,S2567,3,2025-01-27,uhh Facilities were great and easily accessible.
+737,S6314,6,2025-01-22,"NOT MUCH TO SAY, IT'S FUNCTIONAL."
+738,S4465,1,2024-11-09,"Nothing  special,  just  an  average  experience."
+739,S3103,7,2024-07-29,The  staff  was  really  helpful  and  polite.
+740,S1107,6,2024-12-07,Clean environment and well-maintained infrastructure.
+741,S7720,4,2025-02-02,THE SERVICES WERE FAST AND EFFECTIVE.
+742,S6731,2,2024-12-12,uhh I had a goood experience with the support team.
+743,S7575,8,2024-11-19,The staff was really helpful and polite.
+744,S8789,7,2024-10-23,uhh I had to wait a long time to get support.
+745,S5459,8,2025-05-06,Extremely frustrating experience with the department.
+746,S6113,1,2025-01-05,Clean environment and well-maintained infrastructure.
+747,S9350,7,2024-09-27,<b>The  system  works  fine  most  of  the  time.</b>
+748,S5053,1,2024-06-23,It's  decent  but  could  use  some  improvement.
+749,S2061,2,2024-12-06,The staff was really helpful and polite.
+750,S9742,3,2024-10-16,IT'S DECENT BUT COULD USE SOME IMPROVEMENT.
+751,S5536,6,2025-01-26,I  had  to  wait  a  long  time  to  get  support.
+752,S8709,1,2025-01-28,<B>THE STAFF WAS REALLY HELPFUL AND POLITE.</B>
+753,S3814,6,2025-02-13,The  staff  was  rude  and  unhelpful.
+754,S5395,3,2024-08-15,<B>THE  STAFF  WAS  REALLY  HELPFUL  AND  POLITE.</B>
+755,S9742,6,2024-09-22,I had a good experience with the support team.
+756,S1365,6,2025-04-28,Facilities  were  great  and  easily  accessible.  😊
+757,S4638,2,2024-06-09,THE SERVICES WERE FAST AND EFFECTIVE.
+758,S4543,3,2025-03-09,The staff was rude and unhelpful. 😊
+759,S5619,5,2025-05-18,Facilities were great and easily accessible.
+760,S5428,5,2024-08-19,uhh THE STAFF WAS REALLY HELPFUL AND POLITE.
+761,S5016,4,2025-01-05,The  staff  was  rude  and  unhelpful.  😊
+762,S6392,7,2024-09-07,"It was okay, not too bad."
+763,S2155,5,2024-08-04,<b>Facilities  were  outdated  and  not  working  properly.</b>
+764,S1882,5,2024-12-25,Very poor servise and delayed response. 😊
+765,S4531,2,2024-09-09,The staff was really helpful and polite.
+766,S4516,4,2024-06-10,"uhh <b>Nothing special, just an average experience.</b>"
+767,S4295,8,2024-09-16,FACILITIES  WERE  OUTDATED  AND  NOT  WORKING  PROPERLY.  😊
+768,S9399,7,2024-12-28,Very poor servise and delayed response.
+769,S6906,6,2025-01-10,I HAD TO WAIT A LONG TIME TO GET SUPPORT. 😊
+770,S7458,1,2025-03-17,I had to wait a long time to get support.
+771,S3665,4,2024-07-09,Very poor servise and delayed response.
+772,S2481,4,2024-11-25,I had to wait a long time to get support.
+773,S1083,7,2024-08-08,uhh Very poor service and delayed response.
+774,S2652,8,2024-09-02,The staff was rude and unhelpful.
+775,S9399,7,2025-05-01,uhh I had a good experience with the support team.
+776,S1365,6,2025-05-26,<b>The staff was rude and unhelpful.</b>
+777,S2742,4,2024-08-28,I had a good experience with the support team. 😊
+778,S4445,2,2025-01-29,Facilities were great and easily accessible. 😊
+779,S6254,1,2025-01-05,I had to wait a long time to get support.
+780,S8945,1,2025-01-19,<B>THE SYSTEM WORKS FINE MOST OF THE TIME.</B>
+781,S2315,3,2025-04-30,Very poor servise and delayed response.
+782,S4640,2,2025-03-22,uhh  <b>The  staff  was  really  helpful  and  polite.</b>
+783,S7697,5,2024-09-17,Clean environment and well-maintained infrastructure.
+784,S9387,2,2025-01-16,I had a goood experience with the support team.
+785,S7444,1,2025-03-09,Facilities were outdated and not working properly.
+786,S4843,3,2025-01-28,The services were fast and effective.
+787,S4704,6,2025-05-22,uhh Facilities were great and easily accessible.
+788,S4463,7,2024-10-21,Very poor servise and delayed response.
+789,S3586,7,2024-10-18,uhh The services were fast and effective.
+790,S4975,2,2025-02-18,The services were fast and effective.
+791,S4654,2,2025-01-01,I had a good experience with the support team. 😊
+792,S1740,2,2025-01-22,Extremely  frustrating  experience  with  the  department.
+793,S1083,1,2024-06-12,uhh <b>The staff was rude and unhelpful.</b>
+794,S8945,3,2025-04-10,The system works fine most of the time.
+795,S4577,2,2024-07-01,"uhh  Not  much  to  say,  it's  functional."
+796,S8414,1,2024-10-20,I had to wait a long time to get support.
+797,S9350,7,2025-02-08,Very poor servise and delayed response.
+798,S6113,6,2025-05-20,<b>The services were fast and effective.</b>
+799,S7790,6,2025-04-20,The system works fine most of the time.
+800,S9399,3,2024-12-08,uhh  Facilities  were  great  and  easily  accessible.
+801,S5567,8,2025-03-26,Clean environment and well-maintained infrastructure.
+802,S3520,5,2025-05-05,uhh <b>The staff was really helpful and polite.</b>
+803,S4220,1,2025-04-12,IT'S DECENT BUT COULD USE SOME IMPROVEMENT. 😊
+804,S9742,3,2024-09-10,<b>The  staff  was  rude  and  unhelpful.</b>
+805,S7841,2,2024-09-11,uhh FACILITIES WERE GREAT AND EASILY ACCESSIBLE.
+806,S8807,2,2024-07-25,Very poor service and delayed response.
+807,S5050,4,2024-08-31,Facilities were great and easily accessible.
+808,S9184,5,2024-07-08,I had a goood experience with the support team.
+809,S2923,1,2024-10-24,Clean environment and well-maintained infrastructure.
+810,S4617,8,2024-07-31,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+811,S5934,7,2024-12-12,It's decent but could use some improvement.
+812,S2140,1,2024-12-02,Facilities were great and easily accessible.
+813,S6012,1,2024-10-02,uhh It's decent but could use some improvement. 😊
+814,S8003,4,2024-11-19,uhh <b>The staff was really helpful and polite.</b>
+815,S6743,8,2025-01-08,<B>THE STAFF WAS REALLY HELPFUL AND POLITE. 😊</B>
+816,S5553,6,2025-01-22,I  had  to  wait  a  long  time  to  get  support.
+817,S2384,3,2024-06-05,I had to wait a long time to get support.
+818,S7071,3,2025-03-01,Facilities were outdated and not working properly.
+819,S9766,1,2024-10-21,Very poor service and delayed response.
+820,S5849,8,2025-03-21,"<b>Nothing special, just an average experience.</b>"
+821,S6012,7,2025-03-01,Facilities were great and easily accessible.
+822,S9370,1,2025-04-20,uhh Extremely frustrating experience with the department.
+823,S9910,6,2024-12-28,It's decent but could use some improvement.
+824,S4843,3,2025-03-25,Very poor service and delayed response.
+825,S9998,4,2024-06-28,uhh Extremely frustrating experience with the department.
+826,S1516,7,2025-01-25,Facilities were great and easily accessible. 😊
+827,S3661,1,2024-12-15,Facilities were outdated and not working properly.
+828,S5536,2,2024-10-06,Facilities were outdated and not working properly.
+829,S8967,5,2024-06-09,uhh  FACILITIES  WERE  OUTDATED  AND  NOT  WORKING  PROPERLY.
+830,S8785,2,2025-02-21,The  staff  was  really  helpful  and  polite.
+831,S1308,8,2025-05-21,Facilities were great and easily accessible. 😊
+832,S6300,3,2025-01-19,uhh EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+833,S3459,2,2024-06-11,THE STAFF WAS REALLY HELPFUL AND POLITE. 😊
+834,S2155,4,2024-12-08,I had to wait a long time to get support.
+835,S5858,6,2024-08-03,THE  STAFF  WAS  REALLY  HELPFUL  AND  POLITE.  😊
+836,S6610,8,2025-04-08,"<b>Not much to say, it's functional. 😊</b>"
+837,S4683,1,2025-02-15,It's decent but could use some improvement.
+838,S9937,2,2024-07-26,Clean environment and well-maintained infrastructure.
+839,S1432,8,2024-07-01,Facilities were great and easily accessible.
+840,S4510,3,2025-03-28,<b>Facilities were great and easily accessible.</b>
+841,S4203,7,2024-11-23,uhh It's decent but could use some improvement.
+842,S8123,4,2024-08-18,uhh Facilities were outdated and not working properly.
+843,S9910,6,2024-12-06,"Not much to say, it's functional."
+844,S2265,8,2025-05-13,The staff was rude and unhelpful. 😊
+845,S9399,8,2024-07-23,Clean environment and well-maintained infrastructure.
+846,S5858,7,2025-03-12,<b>I had to wait a long time to get support.</b>
+847,S5626,7,2024-08-24,Clean environment and well-maintained infrastructure.
+848,S2366,5,2024-09-14,Clean environment and well-maintained infrastructure.
+849,S6024,6,2024-11-17,EXTREMELY  FRUSTRATING  EXPERIENCE  WITH  THE  DEPARTMENT.
+850,S6012,1,2025-04-20,Facilities were great and easily accessible.
+851,S2400,8,2025-05-23,The services were fast and effective.
+852,S8619,8,2025-04-29,<b>Facilities were outdated and not working properly.</b>
+853,S9953,3,2025-04-20,uhh EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+854,S3459,3,2024-11-20,<b>Clean environment and well-maintained infrastructure.</b>
+855,S8051,8,2024-08-26,"NOT MUCH TO SAY, IT'S FUNCTIONAL."
+856,S2018,6,2024-11-27,uhh The system works fine most of the time.
+857,S1552,3,2024-10-14,Facilities were outdated and not working properly.
+858,S2366,7,2025-03-22,"It was okay, not too bad."
+859,S5662,5,2025-03-02,uhh  Extremely  frustrating  experience  with  the  department.
+860,S7975,7,2025-04-20,<b>Extremely frustrating experience with the department.</b>
+861,S2366,8,2024-11-29,The staff was really helpful and polite.
+862,S4974,5,2024-07-20,"<b>Not much to say, it's functional.</b>"
+863,S2140,5,2025-03-04,The staff was really helpful and polite.
+864,S9350,4,2024-09-26,"Not much to say, it's functional."
+865,S3661,3,2025-04-03,Facilities were great and easily accessible.
+866,S1954,5,2024-09-09,Clean environment and well-maintained infrastructure. 😊
+867,S5122,8,2024-07-09,FACILITIES WERE GREAT AND EASILY ACCESSIBLE.
+868,S6392,6,2024-11-14,EXTREMELY FRUSTRATING EXPERIENCE WITH THE DEPARTMENT.
+869,S8329,7,2025-03-03,Extremely  frustrating  experience  with  the  department.
+870,S5053,3,2024-07-02,<b>Facilities were outdated and not working properly.</b>
+871,S6012,7,2024-10-21,The  system  works  fine  most  of  the  time.
+872,S1151,6,2025-01-20,<b>Very poor service and delayed response.</b>
+873,S5619,2,2025-02-28,It's decent but could use some improvement.
+874,S9721,4,2024-11-30,<b>I had a good experience with the support team.</b>
+875,S5375,4,2025-01-29,uhh FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+876,S2140,7,2025-04-20,Extremely frustrating experience with the department.
+877,S6392,8,2024-06-15,Extremely  frustrating  experience  with  the  department.  😊
+878,S1697,3,2025-03-31,"Not much to say, it's functional."
+879,S6540,1,2025-03-05,uhh Facilities were great and easily accessible.
+880,S4805,1,2024-11-07,"Not much to say, it's functional."
+881,S6540,7,2025-03-25,I had a goood experience with the support team. 😊
+882,S7697,1,2024-08-30,Very poor service and delayed response. 😊
+883,S1327,2,2024-11-29,uhh  THE  STAFF  WAS  REALLY  HELPFUL  AND  POLITE.
+884,S4704,3,2024-08-06,I had to wait a long time to get support. 😊
+885,S7713,8,2025-03-09,<B>VERY POOR SERVISE AND DELAYED RESPONSE.</B>
+886,S2796,8,2024-06-24,uhh Facilities were great and easily accessible.
+887,S4435,5,2025-01-24,<B>FACILITIES  WERE  GREAT  AND  EASILY  ACCESSIBLE.</B>
+888,S1601,7,2025-02-22,uhh  The  system  works  fine  most  of  the  time.  😊
+889,S4638,5,2025-01-14,The  system  works  fine  most  of  the  time.
+890,S4220,7,2024-10-21,uhh <b>The staff was rude and unhelpful.</b>
+891,S2396,6,2025-04-12,"<b>Nothing special, just an average experience.</b>"
+892,S2366,1,2025-04-24,The staff was really helpful and polite.
+893,S2321,4,2024-06-07,The  system  works  fine  most  of  the  time.  😊
+894,S9184,3,2025-03-28,uhh Very poor servise and delayed response. 😊
+895,S2660,8,2024-08-15,Clean environment and well-maintained infrastructure.
+896,S4805,7,2025-04-28,<B>FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.</B>
+897,S5780,8,2025-05-15,uhh <b>The staff was rude and unhelpful.</b>
+898,S4752,4,2024-06-11,"Nothing special, just an average experience."
+899,S4656,3,2024-11-23,<b>Extremely frustrating experience with the department.</b>
+900,S6568,7,2024-08-23,Facilities were great and easily accessible.
+901,S3661,4,2024-07-18,The staff was really helpful and polite.
+902,S3343,1,2025-04-17,<b>Very poor servise and delayed response.</b>
+903,S4435,8,2024-07-12,THE SYSTEM WORKS FINE MOST OF THE TIME.
+904,S2441,6,2024-09-06,Clean  environment  and  well-maintained  infrastructure.
+905,S5974,2,2024-06-05,The staff was rude and unhelpful.
+906,S5227,7,2024-06-26,Clean environment and well-maintained infrastructure.
+907,S7743,2,2025-02-21,"uhh  NOTHING  SPECIAL,  JUST  AN  AVERAGE  EXPERIENCE."
+908,S6012,1,2025-01-12,It's decent but could use some improvement.
+909,S5626,3,2025-03-07,Clean environment and well-maintained infrastructure.
+910,S1882,1,2025-03-30,"It was okay, not too bad. 😊"
+911,S3559,1,2024-09-15,The staff was really helpful and polite. 😊
+912,S7966,1,2025-04-28,THE STAFF WAS REALLY HELPFUL AND POLITE.
+913,S6743,6,2025-01-06,Clean environment and well-maintained infrastructure.
+914,S4465,5,2024-07-04,"<B>NOT MUCH TO SAY, IT'S FUNCTIONAL.</B>"
+915,S8709,8,2024-07-28,uhh I HAD A GOOOD EXPERIENCE WITH THE SUPPORT TEAM.
+916,S1428,8,2025-01-22,<b>Extremely frustrating experience with the department. 😊</b>
+917,S7743,5,2024-06-18,<b>I had a good experience with the support team.</b>
+918,S9676,4,2024-11-30,I had to wait a long time to get support.
+919,S4975,8,2024-06-13,I  HAD  A  GOOOD  EXPERIENCE  WITH  THE  SUPPORT  TEAM.
+920,S4090,4,2025-04-10,Very  poor  servise  and  delayed  response.
+921,S6113,2,2025-05-22,Very poor service and delayed response.
+922,S4531,8,2024-11-03,<B>THE STAFF WAS REALLY HELPFUL AND POLITE.</B>
+923,S4577,2,2025-03-15,<b>Facilities  were  outdated  and  not  working  properly.</b>
+924,S9445,3,2024-07-11,<b>The staff was rude and unhelpful.</b>
+925,S1881,8,2025-02-04,The  system  works  fine  most  of  the  time.
+926,S9742,3,2025-06-02,The services were fast and effective.
+927,S9975,6,2024-10-15,<b>The staff was really helpful and polite. 😊</b>
+928,S2923,3,2024-10-03,I HAD TO WAIT A LONG TIME TO GET SUPPORT.
+929,S7458,2,2024-12-09,Clean environment and well-maintained infrastructure. 😊
+930,S1107,8,2025-01-26,Facilities were great and easily accessible.
+931,S8538,1,2024-08-16,"Not much to say, it's functional."
+932,S4683,5,2024-07-21,"NOT MUCH TO SAY, IT'S FUNCTIONAL."
+933,S4975,8,2025-05-01,<b>I had a goood experience with the support team. 😊</b>
+934,S8329,6,2025-01-24,Facilities were great and easily accessible.
+935,S7863,5,2024-08-25,"Nothing special, just an average experience."
+936,S2366,8,2025-05-06,VERY  POOR  SERVICE  AND  DELAYED  RESPONSE.
+937,S4510,8,2025-05-21,The services were fast and effective.
+938,S7476,1,2024-08-06,Facilities  were  outdated  and  not  working  properly.
+939,S3586,5,2025-02-05,uhh It's decent but could use some improvement.
+940,S5731,4,2025-01-01,THE STAFF WAS RUDE AND UNHELPFUL. 😊
+941,S2923,7,2025-05-17,uhh  Extremely  frustrating  experience  with  the  department.
+942,S2441,8,2025-04-20,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+943,S8106,6,2024-11-19,uhh <B>VERY POOR SERVISE AND DELAYED RESPONSE.</B>
+944,S9728,7,2025-03-05,"IT WAS OKAY, NOT TOO BAD."
+945,S4704,5,2024-07-11,"It  was  okay,  not  too  bad.  😊"
+946,S3103,7,2024-07-08,"It was okay, not too bad."
+947,S4617,7,2025-04-13,THE SERVICES WERE FAST AND EFFECTIVE.
+948,S3095,4,2024-12-25,uhh The staff was rude and unhelpful.
+949,S6505,6,2025-04-24,Very  poor  servise  and  delayed  response.
+950,S1308,7,2024-09-30,FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+951,S1048,4,2025-04-11,The system works fine most of the time.
+952,S8853,8,2024-12-23,THE STAFF WAS RUDE AND UNHELPFUL.
+953,S8945,2,2024-12-21,The staff was rude and unhelpful.
+954,S4617,4,2024-09-02,Facilities  were  great  and  easily  accessible.
+955,S8714,2,2024-11-23,<b>Clean environment and well-maintained infrastructure.</b>
+956,S8243,5,2025-02-17,Very poor service and delayed response. 😊
+957,S9058,4,2024-12-17,Facilities were outdated and not working properly. 😊
+958,S6743,6,2025-03-18,<b>Facilities were outdated and not working properly.</b>
+959,S6113,3,2025-06-02,uhh THE STAFF WAS REALLY HELPFUL AND POLITE.
+960,S2742,4,2025-01-02,<b>Clean environment and well-maintained infrastructure.</b>
+961,S7390,5,2024-11-17,VERY POOR SERVICE AND DELAYED RESPONSE.
+962,S8619,8,2024-10-17,I had to wait a long time to get support.
+963,S3343,5,2024-10-31,<b>It's decent but could use some improvement.</b>
+964,S1365,6,2024-10-01,Facilities were great and easily accessible.
+965,S8969,4,2025-01-21,"Nothing  special,  just  an  average  experience."
+966,S1970,1,2025-04-04,The services were fast and effective.
+967,S1083,5,2025-01-06,Very  poor  servise  and  delayed  response.  😊
+968,S3011,7,2024-08-14,The staff was rude and unhelpful.
+969,S6166,5,2024-06-05,The system works fine most of the time. 😊
+970,S5053,7,2025-04-13,uhh The services were fast and effective.
+971,S6254,2,2025-03-13,The  services  were  fast  and  effective.  😊
+972,S2591,7,2024-12-10,uhh <b>Extremely frustrating experience with the department.</b>
+973,S1601,6,2025-03-11,uhh The services were fast and effective.
+974,S6705,2,2024-06-11,"Not  much  to  say,  it's  functional.  😊"
+975,S8329,3,2024-06-28,"It was okay, not too bad."
+976,S8123,5,2025-03-26,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM. 😊
+977,S9472,5,2024-06-11,uhh Very poor service and delayed response.
+978,S3645,4,2024-07-29,uhh  The  services  were  fast  and  effective.  😊
+979,S8211,7,2025-04-30,The staff was really helpful and polite.
+980,S8807,5,2024-06-21,The system works fine most of the time.
+981,S1552,7,2024-10-08,The staff was rude and unhelpful.
+982,S3103,2,2025-04-10,I HAD A GOOD EXPERIENCE WITH THE SUPPORT TEAM.
+983,S7732,7,2025-01-06,uhh <b>The services were fast and effective.</b>
+984,S5887,2,2024-12-07,Facilities were great and easily accessible.
+985,S8414,1,2024-06-11,I had a good experience with the support team.
+986,S1151,6,2024-07-17,uhh  Very  poor  service  and  delayed  response.
+987,S7713,1,2025-02-01,uhh Facilities were great and easily accessible.
+988,S3520,5,2024-11-16,"uhh Nothing special, just an average experience."
+989,S4510,4,2024-08-11,uhh FACILITIES WERE OUTDATED AND NOT WORKING PROPERLY.
+990,S2796,6,2024-12-12,uhh Facilities were great and easily accessible.
+991,S1908,6,2025-05-15,Clean  environment  and  well-maintained  infrastructure.
+992,S9290,7,2025-04-19,The staff was really helpful and polite.
+993,S1151,6,2024-08-20,"Nothing  special,  just  an  average  experience."
+994,S8853,1,2024-10-28,I had to wait a long time to get support. 😊
+995,S4445,3,2024-06-11,uhh The staff was rude and unhelpful.
+996,S8123,3,2025-03-20,The system works fine most of the time.
+997,S2524,6,2024-11-07,I had to wait a long time to get support.
+998,S1970,4,2024-11-13,Very poor servise and delayed response.
+999,S4752,4,2024-10-30,uhh  The  staff  was  rude  and  unhelpful.  😊
+1000,S1552,5,2024-11-15,"Not much to say, it's functional. 😊"
