@@ -7,7 +7,13 @@ A full-stack sentiment analysis and keyword extraction system tailored for analy
 ## 📁 Project Structure
 
 ```
-EDUSENTIMENT/
+
+edusentiment/
+├── media/
+    ├── dashboard_overview.png
+    ├── top_keyword.png
+    ├── department_filter.png
+    └── feedback_table.png
 ├── analysis/
 │   ├── accuracy.py
 │   └── sentiment.py
@@ -18,18 +24,19 @@ EDUSENTIMENT/
 │   ├── student_labelled_data.csv
 │   └── students.csv
 ├── database/
-│   ├── database_input.py
-│   └── database_output.py
+│   ├── database\_input.py
+│   └── database\_output.py
 ├── nlp/
-│   ├── keyword_extraction.py
+│   ├── keyword\_extraction.py
 │   ├── preprocess.py
-│   ├── text_cleaning.py
-│   └── text_tokenize.py
+│   ├── text\_cleaning.py
+│   └── text\_tokenize.py
 ├── .env
+├── .gitignore
 ├── dashboard.py
 ├── main.py
 ├── query.sql
-└── requirements.txt
+├── requirements.txt
 
 ````
 
@@ -38,23 +45,33 @@ EDUSENTIMENT/
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
-
 ```bash
-git clone https://github.com/yourusername/edusentiment.git
+git clone https://github.com/Syed-Mohammad-Nasir-Hussain/edusentiment.git
 cd edusentiment
 ````
 
-### 2. Create a Virtual Environment and Install Dependencies
+### 2. Create and Activate a Virtual Environment (PowerShell)
+
+```powershell
+# Create virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+.\venv\Scripts\Activate.ps1
+```
+
+> If you face execution policy issues, run:
+> `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+
+### 3. Install Required Dependencies
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Prepare `.env` File
+### 4. Prepare `.env` File
 
-Create a `.env` file with the following keys:
+Create a `.env` file in the root directory with your DB config:
 
 ```ini
 DB_USER=root
@@ -64,36 +81,68 @@ DB_PORT=3306
 DB_NAME=edusentiment
 ```
 
-### 4. Ensure Required NLTK Downloads
+---
 
-```python
-nltk.download('punkt_tab')
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
-```
+## 🧠 Project Background
+
+* The feedback data used here is **not real** and was created for educational purposes.
+* The dataset does **not contain sentiment labels**, so we apply a **pretrained transformer model** (`cardiffnlp/twitter-roberta-base-sentiment`) to predict sentiment.
+* We validate model behavior using **100 manually labeled records** just to observe result quality — this is not a supervised training setup.
 
 ---
 
-## 🧠 What It Does
+## 📊 Model Evaluation (Sample of 100 Records)
 
-### 🔄 `main.py`
+### 🔢 Total Actual Counts
 
-* Connects to MySQL using `database_input.py`
-* Preprocesses feedback text
-* Performs sentiment classification using `cardiffnlp/twitter-roberta-base-sentiment`
-* Extracts keywords via `YAKE`
-* Saves results to the database and a predictions CSV
-* Evaluates prediction accuracy against labeled data
+```
+actual
+negative    45
+positive    33
+neutral     22
+```
 
-### 📊 `dashboard.py`
+### ✅ Correct Predictions per Class
 
-* Interactive **Streamlit dashboard**:
+```
+actual
+negative    20
+neutral     13
+positive    17
+```
 
-  * Department filtering
-  * Sentiment distribution over time
-  * Keyword visualization by sentiment
-  * Feedback-level drill-down
+### 📈 Per-Class Accuracy
+
+```
+actual
+negative    0.44
+neutral     0.59
+positive    0.52
+```
+
+### 🧮 Overall Accuracy
+
+```
+0.50
+```
+
+> Note: These values only serve as a rough sanity check.
+
+---
+
+## 🚀 To Run the App
+
+### Run the Analysis Pipeline
+
+```bash
+python main.py
+```
+
+### Launch the Streamlit Dashboard
+
+```bash
+streamlit run dashboard.py
+```
 
 ---
 
@@ -111,95 +160,29 @@ nltk.download('averaged_perceptron_tagger')
 
 ---
 
-## 🚀 To Run the App
+## 📸 Dashboard Preview
 
-### Run the Pipeline
+Get a glimpse of what the interactive dashboard looks like when running:
 
-```bash
-python main.py
-```
+### 🔹 Dashboard Overview
+![Dashboard Overview](media/dashboard_overview.png)
 
-### Launch the Dashboard
+### 🔹 Sentiment Distribution Over Time
+![Sentiment Distribution](media/sentiment_distribution.png)
 
-```bash
-streamlit run dashboard.py
-```
+### 🔹 Keyword Cloud by Sentiment
+![Keyword Cloud](media/top_keywords.png)
 
----
+### 🔹 Department-wise Filter
+![Department Filter](media/department_filter.png)
 
-## ✅ Features
-
-* Pretrained RoBERTa sentiment model
-* Custom preprocessing pipeline for educational feedback
-* Robust keyword filtering
-* Auto-saving to MySQL with JSON serialization for complex columns
-* Responsive and insightful dashboard
+### 🔹 Feedback-Level Drill Down
+![Feedback Table](media/feedback_table.png)
 
 ---
-
-## 🗄️ MySQL Database Setup
-
-```sql
--- Create the database
-CREATE DATABASE edusentiment;
-
--- Use the database
-USE edusentiment;
-
--- Create the students table
-CREATE TABLE students (
-    student_id VARCHAR(10) PRIMARY KEY,
-    student_name VARCHAR(100),
-    email VARCHAR(100),
-    enrollment_year INT
-);
-
--- Create the departments table
-CREATE TABLE departments (
-    department_id INT PRIMARY KEY,
-    department_name VARCHAR(100)
-);
-
--- Create the feedback table
-CREATE TABLE feedback (
-    feedback_id INT PRIMARY KEY,
-    student_id VARCHAR(10),
-    department_id INT,
-    date DATE,
-    feedback_text TEXT,
-    FOREIGN KEY (student_id) REFERENCES students(student_id),
-    FOREIGN KEY (department_id) REFERENCES departments(department_id)
-);
-
-Load the csv files into respective tables using mysql workbench import wizard option.
-
--- Create an enriched feedback view
-CREATE TABLE feedback_enriched AS
-SELECT 
-    f.feedback_id,
-    d.department_name,
-    f.student_id,
-    f.date,
-    f.feedback_text
-FROM feedback f
-JOIN departments d ON f.department_id = d.department_id
-JOIN students s ON f.student_id = s.student_id;
-
--- View the enriched data
-SELECT * FROM feedback_enriched;
-```
-
----
-
-## 📌 Notes
-
-* The model limits text input to 512 characters (RoBERTa limitation).
-* Ensure `student_labelled_data.csv` is present in the `data/` folder for evaluation.
-* Keywords are extracted per `(department, sentiment)` combination.
-
----
-
 ## 📬 Contact
 
-Maintained by [Md Nasir](mailto:mdnasir020396@gmail.com)
-Feel free to contribute or raise issues!
+Maintained by [Md Nasir](mailto:mdnasir020396@gmail.com).
+Feel free to contribute, fork, or raise an issue!
+
+```
