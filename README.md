@@ -184,5 +184,3 @@ Get a glimpse of what the interactive dashboard looks like when running:
 
 Maintained by [Md Nasir](mailto:mdnasir020396@gmail.com).
 Feel free to contribute, fork, or raise an issue!
-
-```
