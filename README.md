@@ -25,9 +25,7 @@ EDUSENTIMENT/
 │   ├── preprocess.py
 │   ├── text_cleaning.py
 │   └── text_tokenize.py
-├── venv/                          # Virtual environment (optional to track in Git)
 ├── .env
-├── .gitignore
 ├── dashboard.py
 ├── main.py
 ├── query.sql
